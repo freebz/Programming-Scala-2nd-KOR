@@ -1,0 +1,25 @@
+compile
+console
+compile
+console
+run
+compile
+:quit
+exit
+run
+exit
+compile
+console
+compile
+run
+1
+run
+exit
+rum-main progscala2.introscala.Upper Hello World!
+compile
+rum-main progscala2.introscala.Upper Hello World!
+exit
+run-main progscala2.introscala.Upper Hello World!
+compile
+run
+exit
