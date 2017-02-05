@@ -1,0 +1,164 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/fx/work/Programming Scala/ch02/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Circle$.class
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Circle.class
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Point$.class
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Point.class
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Rectangle$.class
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Rectangle.class
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Shape.class
+binary dependencies:
+2 items
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /home/fx/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> progscala2.typelessdomore.shapes.Circle
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> progscala2.typelessdomore.shapes.Circle$
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> progscala2.typelessdomore.shapes.Point
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> progscala2.typelessdomore.shapes.Point$
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> progscala2.typelessdomore.shapes.Rectangle
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> progscala2.typelessdomore.shapes.Rectangle$
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> progscala2.typelessdomore.shapes.Shape
+used names:
+70 items
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> &&
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> +
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> <init>
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> <repeated>
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> ==
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> A
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> AbstractFunction2
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> AbstractFunction3
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Any
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> AnyRef
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Boolean
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Circle
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Double
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Function1
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> IndexOutOfBoundsException
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Int
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Iterator
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> None
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Nothing
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Object
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Point
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Predef
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Product
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Rectangle
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> ScalaRunTime
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Serializable
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Shape
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Some
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Statics
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> String
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> StringContext
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> T
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> T0
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> T1
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> T2
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> T3
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Tuple2
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Tuple3
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> Unit
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> _root_
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> _toString
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> anyHash
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> apply
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> asInstanceOf
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> center
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> deltax
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> deltay
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> doubleHash
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> eq
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> f
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> finalizeHash
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> height
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> isInstanceOf
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> lowerLeft
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> mix
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> offset
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> package
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> progscala2
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> radius
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> runtime
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> s
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> scala
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> shapes
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> toString
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> typedProductIterator
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> typelessdomore
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> width
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> x
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> y
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> ||
+product stamps:
+7 items
+/home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Circle$.class -> lastModified(1486193416000)
+/home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Circle.class -> lastModified(1486193416000)
+/home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Point$.class -> lastModified(1486193416000)
+/home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Point.class -> lastModified(1486193416000)
+/home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Rectangle$.class -> lastModified(1486193416000)
+/home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Rectangle.class -> lastModified(1486193416000)
+/home/fx/work/Programming Scala/ch02/target/scala-2.10/classes/progscala2/typelessdomore/shapes/Shape.class -> lastModified(1486193416000)
+source stamps:
+1 items
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> hash(c318ee4abab5df4e510f11bd03092618c0fbee30)
+binary stamps:
+2 items
+/home/fx/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1485187082000)
+class names:
+2 items
+/home/fx/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.runtime.AbstractFunction2
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwEOLNEAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAuc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwix/jfHQABm5vdGlmeXNxAH4ADIh+S2V0AAF4c3EAfgAM2f5r93QAD3NoaWZ0JGRlZmF1bHQkMnNxAH4ADMCEI0d0AAR3YWl0c3EAfgAMVFXwVHQACVJlY3RhbmdsZXNxAH4ADEv52950AAZDaXJjbGVzcQB+AAzwXJYXdAAOY29weSRkZWZhdWx0JDJzcQB+AAxfX//OdAANJGFzSW5zdGFuY2VPZnNxAH4ADP45iwh0AAxwcm9kdWN0QXJpdHlzcQB+AAxkHhAjdAAOZHJhdyRkZWZhdWx0JDFzcQB+AAx+3t36dAAGZXF1YWxzc3EAfgAMMHSKxnQAAXlzcQB+AAzz5a5TdAAGY2VudGVyc3EAfgAMgIxDa3QADGFzSW5zdGFuY2VPZnNxAH4ADPRGXAB0AAVQb2ludHNxAH4ADPLb7290AAxzeW5jaHJvbml6ZWRzcQB+AAxUUDo9dAAFc2hpZnRzcQB+AAx1PdpkdAANJGlzSW5zdGFuY2VPZnNxAH4ADLAZspd0AAZoZWlnaHRzcQB+AAx62uC9dAAJbG93ZXJMZWZ0c3EAfgAMHLyb+XQACGNhbkVxdWFsc3EAfgAMJoj8jnQADXByb2R1Y3RQcmVmaXhzcQB+AAyuR3JXdAAGcmFkaXVzc3EAfgAMkx5u3XQACW5vdGlmeUFsbHNxAH4ADPNlHdN0AAxpc0luc3RhbmNlT2ZzcQB+AAwPlY4udAAFU2hhcGVzcQB+AAxyU3ewdAAEZHJhd3NxAH4ADD7zfPF0AAY8aW5pdD5zcQB+AAwhPv0gdAACPT1zcQB+AAyJNEqLdAAFY2xvbmVzcQB+AAw5PwuZdAAGJGluaXQkc3EAfgAMREnszHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMYuZgIHQABGNvcHlzcQB+AAzNLtC1dAAPc2hpZnQkZGVmYXVsdCQxc3EAfgAMM4lRgXQACHRvU3RyaW5nc3EAfgAMyrspFXQAAiE9c3EAfgAMAjp2QnQACGdldENsYXNzc3EAfgAMkjfuSHQADmNvcHkkZGVmYXVsdCQxc3EAfgAM3j0GhHQAAm5lc3EAfgAM+kX8TXQABXdpZHRoc3EAfgAMRm02+3QAAmVxc3EAfgAMGbfQpnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADOJjptB0AAIjI3NxAH4ADFIIZI10AAhmaW5hbGl6ZXNxAH4ADAgE3iF0AA5wcm9kdWN0RWxlbWVudHNxAH4ADHuTJAt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACZwcm9nc2NhbGEyLnR5cGVsZXNzZG9tb3JlLnNoYXBlcy5Qb2ludHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCLc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHNMAAlpbmhlcml0ZWRxAH4Ac0wAB3BhcmVudHNxAH4Ac3hxAH4AkHNxAH4Ai3VxAH4AbgAAAABzcQB+AIt1cQB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0AAZzaGFwZXNxAH4ArXNxAH4AnHEAfgC7c3EAfgCgc3EAfgCjdXEAfgCmAAAAA3NxAH4AqHEAfgCzc3EAfgCocQB+AMFxAH4ArXNxAH4AnHEAfgDDcQB+AR51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ACBwcm9nc2NhbGEyLnR5cGVsZXNzZG9tb3JlLnNoYXBlc3NxAH4BQHQAGXByb2dzY2FsYTIudHlwZWxlc3Nkb21vcmVzcQB+AUB0AApwcm9nc2NhbGEyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaCAfOknVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS9meC93b3JrL1Byb2dyYW1taW5nIFNjYWxhL2NoMDIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMMY7kq6td9OUQ8RvQMJJhjA++4w
+external apis:
+0 items
+source infos:
+1 items
+/home/fx/work/Programming Scala/ch02/src/main/scala/progscala2/typelessdomore/shapes/Shapes.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgf/cv51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gwMi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWggHzpJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gwMi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
