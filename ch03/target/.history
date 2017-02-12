@@ -3,3 +3,4 @@ run-main progscala2.rounding.TryCatch foo/bar \
 run-main progscala2.rounding.TryCatch foo/bar src/main/scala/progscala2/rounding/TryCatch.scala
 run-main progscala2.rounding.TryCatchARM foo/bar src/main/scala/progscala2/rounding/TryCatch.scala
 src/main/scala/progscala2/rounding/call-by-name.scsrc/main/scala/progscala2/rounding/call-by-name.scsrc/main/scala/progscala2/rounding/call-by-name.scsrc/main/scala/progscala2/rounding/call-by-name.scsrc/main/scala/progscala2/rounding/call-by-name.scsrc/main/scala/progscala2/rounding/call-by-name.sc
+exit
