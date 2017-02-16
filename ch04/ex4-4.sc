@@ -17,3 +17,10 @@ if (p == Person("Dean", 29,
   Address("1 Scala Way", "CA", "USA"))) "yes" else "no"
 if (p == Person("Dean", 29,
   Address("1 Scala Way", "CA", "USSR"))) "yes" else "no"
+
+
+if (p == Person(_, 29, Address(_, _, "USA"))) "yes" else "no"
+
+
+def sum_count(ints: Seq[Int]) = (ints.sum, ints.size)
+val (sum, count) = sum_count(List(1,2,3,4,5))

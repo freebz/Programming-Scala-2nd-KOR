@@ -1,0 +1,474 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/database_api/InvalidColumnName$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/database_api/InvalidColumnName.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/database_api/Row.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/javadb/JRow$$anonfun$get$1.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/javadb/JRow$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/javadb/JRow.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$$anonfun$1.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$$anonfun$2.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$$anonfun$3.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$$anonfun$4.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pipeline$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pipeline$toPiped.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pipeline.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Employee$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Employee.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Final.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pay$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pay.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Payroll$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Payroll.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/PostTaxDeductions.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/PreTaxDeductions.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/DB$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/DB.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$$anonfun$1.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$$anonfun$2.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$$anonfun$3.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$SRow.class
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits.class
+binary dependencies:
+8 items
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> /home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> progscala2.implicits.database_api.InvalidColumnName
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> progscala2.implicits.database_api.InvalidColumnName$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> progscala2.implicits.database_api.Row
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> progscala2.implicits.javadb.JRow
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> progscala2.implicits.javadb.JRow$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> progscala2.implicits.javadb.JRow$$anonfun$get$1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.CalculatePayroll2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.CalculatePayroll2$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.CalculatePayroll2$$anonfun$1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.CalculatePayroll2$$anonfun$2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.CalculatePayroll2$$anonfun$3
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.CalculatePayroll2$$anonfun$4
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.Pipeline
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.Pipeline$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala.implicits.payroll.Pipeline$toPiped
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.CalculatePayroll
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.CalculatePayroll$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.Employee
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.Employee$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.Final
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.Pay
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.Pay$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.Payroll
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.Payroll$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.PostTaxDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala.implicits.payroll.PreTaxDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2.implicits.scaladb.DB
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2.implicits.scaladb.DB$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2.implicits.scaladb.implicits
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2.implicits.scaladb.implicits$
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2.implicits.scaladb.implicits$$anonfun$1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2.implicits.scaladb.implicits$$anonfun$2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2.implicits.scaladb.implicits$$anonfun$3
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2.implicits.scaladb.implicits$SRow
+used names:
+274 items
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> &&
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> <byname>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> <init>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> <repeated>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> ==
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> A
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> AbstractFunction1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Any
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> AnyRef
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> B
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> B1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Boolean
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Double
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> IndexOutOfBoundsException
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Int
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> InvalidColumnName
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Iterator
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> JRow
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Map
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> None
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Nothing
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Object
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Predef
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Product
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Row
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> RuntimeException
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> ScalaRunTime
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Seq
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Serializable
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Some
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> String
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> StringContext
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> T
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> T0
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> Tuple2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> _hashCode
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> _root_
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> _toString
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> apply
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> asInstanceOf
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> colName
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> database_api
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> eq
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> get
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> getOrElse
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> implicits
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> isInstanceOf
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> javadb
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> name
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> package
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> pairs
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> progscala2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> representation
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> runtime
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> s
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> scala
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> toString
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> typedProductIterator
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> ||
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> *
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> /
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> <init>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> <repeated>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> A
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Any
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> AnyRef
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Array
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> CalculatePayroll2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Employee
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Final
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Float
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Function1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Int
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Nothing
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Object
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Pay
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Payroll
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Pipeline
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> PostTaxDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> PreTaxDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Predef
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> R
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> String
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> StringContext
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> StringOps
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> Unit
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> V
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> _root_
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> annualSalary
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> apply
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> arg$macro$1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> arg$macro$2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> arg$macro$3
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> collection
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> e
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> f
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> format
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> immutable
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> implicitConversions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> implicits
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> language
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> minus401k
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> minusFinalDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> minusInsurance
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> minusTax
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> name
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> netPay
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> pay
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> payroll
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> percent
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> println
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> proscala
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> s
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> scala
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> start
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> toPiped
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> twoWeekGross
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> twoWeekNet
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> value
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> |>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> &&
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> *
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> -
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> /
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> <init>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> <repeated>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> ==
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> A
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> AbstractFunction6
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Any
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> AnyRef
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Array
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Boolean
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> CalculatePayroll
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Employee
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Final
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Float
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> IndexOutOfBoundsException
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Int
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Iterator
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> None
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Nothing
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Object
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Pay
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Payroll
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> PostTaxDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> PreTaxDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Predef
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Product
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> ScalaRunTime
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Serializable
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Some
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Statics
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Step
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> String
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> StringContext
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> StringOps
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> T
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> T0
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> T1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> T2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> T3
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> T4
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> T5
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> T6
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Tuple2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Tuple6
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> Unit
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> _401kDeductionRate
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> _toString
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> annualSalary
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> anyHash
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> arg$macro$1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> arg$macro$2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> arg$macro$3
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> asInstanceOf
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> collection
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> e
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> employee
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> eq
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> f
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> finalizeHash
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> floatHash
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> format
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> immutable
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> implicits
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> insurancePremiumsPerPayPeriod
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> isInstanceOf
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> minus401k
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> minusFinalDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> minusInsurance
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> minusTax
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> mix
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> name
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> netPay
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> newNet
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> package
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> pay
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> pay1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> pay2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> pay3
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> pay4
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> payroll
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> percent
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> postTaxDeductions
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> println
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> proscala
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> runtime
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> s
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> scala
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> start
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> taxRate
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> toString
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> twoWeekGross
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> twoWeekNet
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> typedProductIterator
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> x$1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> x$2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> x$3
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> x$4
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> x$5
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> x$6
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> x$7
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> x$8
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> ||
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> ->
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> <init>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> <repeated>
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> A
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Any
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> AnyRef
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Array
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> ArrowAssoc
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> B
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> DB
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Double
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Function2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Int
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> JRow
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Nothing
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Object
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Predef
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> SRow
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> String
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> StringContext
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> T
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Tuple2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> Unit
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> _root_
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> apply
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> colName
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> get
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> getDouble
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> getInt
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> getText
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> implicits
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> javadb
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> jrow
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> jrowToDouble
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> jrowToInt
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> jrowToString
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> oneValue1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> oneValue2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> println
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> progscala2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> row
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> s
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> scala
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> scaladb
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> threeValue1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> threeValue2
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> toT
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> twoValue1
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> twoValue2
+product stamps:
+34 items
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/database_api/InvalidColumnName$.class -> lastModified(1486936180000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/database_api/InvalidColumnName.class -> lastModified(1486936180000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/database_api/Row.class -> lastModified(1486936180000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/javadb/JRow$$anonfun$get$1.class -> lastModified(1486936181000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/javadb/JRow$.class -> lastModified(1486936180000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/javadb/JRow.class -> lastModified(1486936181000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/DB$.class -> lastModified(1486936461000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/DB.class -> lastModified(1486936461000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$$anonfun$1.class -> lastModified(1486936461000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$$anonfun$2.class -> lastModified(1486936461000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$$anonfun$3.class -> lastModified(1486936461000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$.class -> lastModified(1486936461000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits$SRow.class -> lastModified(1486936461000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/progscala2/implicits/scaladb/implicits.class -> lastModified(1486936461000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll$.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$$anonfun$1.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$$anonfun$2.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$$anonfun$3.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$$anonfun$4.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2$.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/CalculatePayroll2.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Employee$.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Employee.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Final.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pay$.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pay.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Payroll$.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Payroll.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pipeline$.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pipeline$toPiped.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/Pipeline.class -> lastModified(1487023622000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/PostTaxDeductions.class -> lastModified(1487023103000)
+/home/fx/work/Programming Scala/ch05/target/scala-2.11/classes/proscala/implicits/payroll/PreTaxDeductions.class -> lastModified(1487023103000)
+source stamps:
+4 items
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> hash(98327d1bd0dcd0e1bab99144d9b830e4411cb918)
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> hash(464b96aafd39a4561c4da2e428833c540d94dea1)
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> hash(91c0bbd99d82c3d3bb6a391ef5b93fca9ad78114)
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> hash(705e7c563b9488e3b41bd76df8663d47d2ae03f4)
+binary stamps:
+2 items
+/home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1485187082000)
+class names:
+2 items
+/home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Unit
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwM23i2gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAyc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hweTHn3nQABm5vdGlmeXNxAH4ADH0B7lt0AAd1bmFwcGx5c3EAfgAMETVHmHQAA1Jvd3NxAH4ADFCXw4R0AARuYW1lc3EAfgAMrMCE2HQAD3ByaW50U3RhY2tUcmFjZXNxAH4ADLflfHx0ABNnZXRMb2NhbGl6ZWRNZXNzYWdlc3EAfgAMQklahnQABHdhaXRzcQB+AAzxroA2dAANJGFzSW5zdGFuY2VPZnNxAH4ADO0c/Kp0AAxwcm9kdWN0QXJpdHlzcQB+AAxgAXqedAAGZXF1YWxzc3EAfgAMTQZpeXQAEGZpbGxJblN0YWNrVHJhY2VzcQB+AAznrsoddAAJaW5pdENhdXNlc3EAfgAM37hEGXQADGFzSW5zdGFuY2VPZnNxAH4ADMUTBUZ0AAlnZXREb3VibGVzcQB+AAyfvpyzdAAMc3luY2hyb25pemVkc3EAfgAMHl3N7nQADSRpc0luc3RhbmNlT2ZzcQB+AAwaE1bndAAIZ2V0Q2F1c2VzcQB+AAyMx9utdAAIY2FuRXF1YWxzcQB+AAzxc8IVdAANcHJvZHVjdFByZWZpeHNxAH4ADEGckW90AAlub3RpZnlBbGxzcQB+AAzPqYpxdAAMaXNJbnN0YW5jZU9mc3EAfgAMiyP8jHQADWdldFN0YWNrVHJhY2VzcQB+AAwnqYATdAAUZ2V0U3RhY2tUcmFjZUVsZW1lbnRzcQB+AAx3iba2dAAESlJvd3NxAH4ADPIw6NN0AAY8aW5pdD5zcQB+AAzzbMSIdAAKZ2V0TWVzc2FnZXNxAH4ADE6usXx0AA1zZXRTdGFja1RyYWNlc3EAfgAMc/8XinQABWFwcGx5c3EAfgAMhdBRI3QADWdldFN1cHByZXNzZWRzcQB+AAyrStqjdAACPT1zcQB+AAws746ldAASZ2V0U3RhY2tUcmFjZURlcHRoc3EAfgAMm0zEFHQABWNsb25lc3EAfgAMyMoEoHQADWFkZFN1cHByZXNzZWRzcQB+AAwQkFc+dAAGZ2V0SW50c3EAfgAMVwYZo3QABiRpbml0JHNxAH4ADFqNVuN0AARjb3B5c3EAfgAM/yEoRXQACHRvU3RyaW5nc3EAfgAM2szHMHQAAiE9c3EAfgAM6lFGL3QACGdldENsYXNzc3EAfgAMIv1a83QADmNvcHkkZGVmYXVsdCQxc3EAfgAM9cwESXQAAm5lc3EAfgAMPvuK9nQAAmVxc3EAfgAMnr3M7nQADnJlcHJlc2VudGF0aW9uc3EAfgAMpvdpPHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADDE+I2x0ABFJbnZhbGlkQ29sdW1uTmFtZXNxAH4ADFjqU2d0AAdnZXRUZXh0c3EAfgAMHwdHLnQAAiMjc3EAfgAMFo3ij3QACGZpbmFsaXplc3EAfgAMQGqj1HQADnByb2R1Y3RFbGVtZW50c3EAfgAMxwQ1qnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ae3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAM3Byb2dzY2FsYTIuaW1wbGljaXRzLmRhdGFiYXNlX2FwaS5JbnZhbGlkQ29sdW1uTmFtZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCTc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHtMAAlpbmhlcml0ZWRxAH4Ae0wAB3BhcmVudHNxAH4Ae3hxAH4AmHNxAH4Ak3VxAH4AdgAAAABzcQB+AJN1cQB+AHYAAAAAc3EAfgCTdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAlzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCXdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCXc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCxc3EAfgCkdAAHUHJvZHVjdHEAfgCqc3EAfgCkdAAGRXF1YWxzcQB+AKpzcQB+AKR0ABBSdW50aW1lRXhjZXB0aW9uc3EAfgCoc3EAfgCrdXEAfgCuAAAAA3NxAH4AsHQABGphdmFzcQB+ALB0AARsYW5ncQB+ALVzcQB+AKR0AAlFeGNlcHRpb25xAH4AvHNxAH4ApHQACVRocm93YWJsZXEAfgC8c3EAfgCkcQB+AKdzcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+AMBzcQB+ALB0AAJpb3EAfgC1c3EAfgCkdAAGT2JqZWN0cQB+ALxzcQB+AKR0AANBbnlxAH4AqnNxAH4AeHEAfgCFdXEAfgCGAAAAAHNxAH4AiAF0ACVwcm9nc2NhbGEyLmltcGxpY2l0cy5kYXRhYmFzZV9hcGkuUm93dXEAfgCLAAAAAH5xAH4AjXQABVRyYWl0dXEAfgCRAAAAAHNxAH4Ak3EAfgCZc3EAfgCTc3EAfgCbc3EAfgCTdXEAfgB2AAAAAHNxAH4Ak3VxAH4AdgAAAABzcQB+AJN1cQB+AKIAAAACc3EAfgCkcQB+AM9zcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+AMBzcQB+ALBxAH4AwnEAfgC1c3EAfgCkcQB+ANFzcQB+AKhzcQB+AKt1cQB+AK4AAAACc3EAfgCwcQB+ALNxAH4AtXNxAH4AeHEAfgCFdXEAfgCGAAAAAHNxAH4AiAB0ACBwcm9nc2NhbGEyLmltcGxpY2l0cy5qYXZhZGIuSlJvd3VxAH4AiwAAAABxAH4Aj3VxAH4AkQAAAABzcQB+AJNxAH4AmXNxAH4Ak3NxAH4Am3NxAH4Ak3VxAH4AdgAAAABzcQB+AJN1cQB+AHYAAAAAc3EAfgCTdXEAfgCiAAAAB3NxAH4ApHEAfgCnc3EAfgCoc3EAfgCrdXEAfgCuAAAAAnNxAH4AsHEAfgCzcQB+ALVzcQB+AKRxAH4Ap3NxAH4AqHNxAH4Aq3VxAH4ArgAAAANzcQB+ALBxAH4AwHNxAH4AsHQAAmlvcQB+ALVzcQB+AKRxAH4At3EAfgD+c3EAfgCkdAAGRXF1YWxzcQB+AP5zcQB+AKR0AANSb3dzcQB+AKhzcQB+AKt1cQB+AK4AAAAEc3EAfgCwdAAKcHJvZ3NjYWxhMnNxAH4AsHQACWltcGxpY2l0c3NxAH4AsHQADGRhdGFiYXNlX2FwaXEAfgC1c3EAfgCkcQB+AM9zcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+AMBzcQB+ALBxAH4AwnEAfgC1c3EAfgCkcQB+ANFxAH4A/nNxAH4AeHEAfgCFdXEAfgCGAAAAAHNxAH4AiAB0ACBwcm9nc2NhbGEyLmltcGxpY2l0cy5qYXZhZGIuSlJvd3VxAH4AiwAAAAB+cQB+AI10AAZNb2R1bGV1cQB+AJEAAAAAc3EAfgCTcQB+AJlzcQB+AJNzcQB+AJtzcQB+AJN1cQB+AHYAAAAAc3EAfgCTdXEAfgB2AAAAAHNxAH4Ak3VxAH4AogAAAARzcQB+AKRxAH4Ap3NxAH4AqHNxAH4Aq3VxAH4ArgAAAAJzcQB+ALBxAH4As3EAfgC1c3EAfgCkcQB+AKdzcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+AMBzcQB+ALB0AAJpb3EAfgC1c3EAfgCkcQB+AM9zcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+AMBzcQB+ALBxAH4AwnEAfgC1c3EAfgCkcQB+ANFxAH4BMHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAIXByb2dzY2FsYTIuaW1wbGljaXRzLmRhdGFiYXNlX2FwaXNxAH4BRHQAG3Byb2dzY2FsYTIuaW1wbGljaXRzLmphdmFkYnNxAH4BRHQAFHByb2dzY2FsYTIuaW1wbGljaXRzc3EAfgFEdAAKcHJvZ3NjYWxhMnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjRNY891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L2hvbWUvZngvd29yay9Qcm9ncmFtbWluZyBTY2FsYS9jaDA1L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSYMn0b0NzQ4bq5kUTZuDDkQRy5GA==
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwacdZ9gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCfRrBWdAAHdG9QaXBlZHVxAH4ACQAAABhzcQB+AAt31JsXdAAGbm90aWZ5c3EAfgALl5NLqXQABHdhaXRzcQB+AAt4/wBmdAANJGFzSW5zdGFuY2VPZnNxAH4ACwc5/px0ABFDYWxjdWxhdGVQYXlyb2xsMnNxAH4AC0Iv9mB0AAZlcXVhbHNzcQB+AAuKCUiHdAACfD5zcQB+AAthQ6DudAAMYXNJbnN0YW5jZU9mc3EAfgAL7WfSQXQADHN5bmNocm9uaXplZHNxAH4AC2DHgBJ0AA0kaXNJbnN0YW5jZU9mc3EAfgALe2kGtHQACFBpcGVsaW5lc3EAfgALqwy0UXQABG1haW5zcQB+AAsLegcLdAAJbm90aWZ5QWxsc3EAfgALPsN5JXQADGlzSW5zdGFuY2VPZnNxAH4AC6ClJz50AAY8aW5pdD5zcQB+AAuOmIv/dAACPT1zcQB+AAu6Ox9hdAAFY2xvbmVzcQB+AAt3/SE5dAAIdG9TdHJpbmdzcQB+AAtIE3wbdAACIT1zcQB+AAtUaYqMdAAIZ2V0Q2xhc3NzcQB+AAuMntEudAACbmVzcQB+AAueCDMbdAACZXFzcQB+AAtnGI5udAACIyNzcQB+AAtARNxGdAAIZmluYWxpemVzcQB+AAt7j+VFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAjcHJvc2NhbGEuaW1wbGljaXRzLnBheXJvbGwuUGlwZWxpbmV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ACxwcm9zY2FsYS5pbXBsaWNpdHMucGF5cm9sbC5DYWxjdWxhdGVQYXlyb2xsMnVxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGFxAH4AZ3NxAH4AYXNxAH4AaXNxAH4AYXVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAHNxAH4AVgBxAH4AJXVxAH4AWQAAAABzcQB+AHJ0AARVbml0c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnEAfgCMcQB+AIV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCZeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBcdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3EAfgBydAAFQXJyYXlxAH4AoXVxAH4AcAAAAAFzcQB+AHJ0AAZTdHJpbmdzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+cQB+AIFzcQB+AH5xAH4Ag3EAfgCFc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4AcAAAAAJzcQB+AHJxAH4AdXEAfgC7c3EAfgBycQB+AIdxAH4AoXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAGnByb3NjYWxhLmltcGxpY2l0cy5wYXlyb2xsc3EAfgDIdAAIcHJvc2NhbGFzcQB+AMh0ABJwcm9zY2FsYS5pbXBsaWNpdHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVo5g8NwdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gwNS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURkuWqv05pFYcTaLkKIM8VA2U3qE=
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0FLZHgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA2c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw738DTHQABm5vdGlmeXNxAH4ADMJfvFR0AA5taW51c0luc3VyYW5jZXNxAH4ADAIvsbV0AAhtaW51c1RheHNxAH4ADAvF9OV0AARuYW1lc3EAfgAMbyMEzXQABHdhaXRzcQB+AAyJrbpRdAAGbmV0UGF5c3EAfgAM2ihlOXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMXFGbMHQADSRhc0luc3RhbmNlT2ZzcQB+AAyw9POXdAAOY29weSRkZWZhdWx0JDVzcQB+AAyYIFHmdAADUGF5c3EAfgAMpBEjgnQADHByb2R1Y3RBcml0eXNxAH4ADE2obQ10AAZlcXVhbHNzcQB+AAxNYJ79dAAQQ2FsY3VsYXRlUGF5cm9sbHNxAH4ADHkzydV0AAhlbXBsb3llZXNxAH4ADKJcwFV0AAxhc0luc3RhbmNlT2ZzcQB+AAxfUTcSdAAUbWludXNGaW5hbERlZHVjdGlvbnNzcQB+AAw7MIEBdAASXzQwMWtEZWR1Y3Rpb25SYXRlc3EAfgAMQy9kinQADHN5bmNocm9uaXplZHNxAH4ADPEPYol0AA0kaXNJbnN0YW5jZU9mc3EAfgAMFKm1yXQAB3RheFJhdGVzcQB+AAyRGcQxdAAIY2FuRXF1YWxzcQB+AAzENsJrdAAOY29weSRkZWZhdWx0JDRzcQB+AAxIncg7dAAQUHJlVGF4RGVkdWN0aW9uc3NxAH4ADA8PeWN0AARtYWluc3EAfgAMcgXINnQADXByb2R1Y3RQcmVmaXhzcQB+AAwfWLJAdAAJbm90aWZ5QWxsc3EAfgAMhOAdP3QADGlzSW5zdGFuY2VPZnNxAH4ADO5rdkB0AAY8aW5pdD5zcQB+AAxgrUB8dAAHUGF5cm9sbHNxAH4ADP81lWR0AAI9PXNxAH4ADI3BoLF0AAVjbG9uZXNxAH4ADETdak90AAYkaW5pdCRzcQB+AAxckKTKdAAdaW5zdXJhbmNlUHJlbWl1bXNQZXJQYXlQZXJpb2RzcQB+AAzPKjiKdAAOY29weSRkZWZhdWx0JDNzcQB+AAxyAxKqdAAEY29weXNxAH4ADMJd1Ct0ABFQb3N0VGF4RGVkdWN0aW9uc3NxAH4ADG4GwYN0AAVGaW5hbHNxAH4ADBx/Npl0AAh0b1N0cmluZ3NxAH4ADDH7jLR0AAIhPXNxAH4ADE2Vhop0AAhnZXRDbGFzc3NxAH4ADHf8tLZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADCTzzj50AAhFbXBsb3llZXNxAH4ADJ9FdV50AAVzdGFydHNxAH4ADDbH20x0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADEwpF650AAJuZXNxAH4ADHcgQA10AAxhbm51YWxTYWxhcnlzcQB+AAxN+8BqdAARcG9zdFRheERlZHVjdGlvbnNzcQB+AAyNY/NLdAACZXFzcQB+AAwfW0YVdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMknv2CHQACW1pbnVzNDAxa3NxAH4ADLz9WSJ0AAIjI3NxAH4ADK1gMbF0AAhmaW5hbGl6ZXNxAH4ADCz1sBl0AA5wcm9kdWN0RWxlbWVudHNxAH4ADMpKEix0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAdzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAl0ACtwcm9zY2FsYS5pbXBsaWNpdHMucGF5cm9sbC5QcmVUYXhEZWR1Y3Rpb25zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ag0wACWluaGVyaXRlZHEAfgCDTAAHcGFyZW50c3EAfgCDeHEAfgCgc3EAfgCbdXEAfgB+AAAAAHNxAH4Am3VxAH4AfgAAAABzcQB+AJt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJ9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALlzcQB+AKx0AANBbnlzcQB+ALBzcQB+ALN1cQB+ALYAAAACc3EAfgC4dAAFc2NhbGFxAH4Av3NxAH4AgHEAfgCNdXEAfgCOAAAAAHNxAH4AkAl0ACxwcm9zY2FsYS5pbXBsaWNpdHMucGF5cm9sbC5Qb3N0VGF4RGVkdWN0aW9uc3VxAH4AkwAAAABxAH4Al3VxAH4AmQAAAABzcQB+AJtxAH4AoXNxAH4Am3NxAH4Ao3NxAH4Am3VxAH4AfgAAAABzcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXEAfgCqAAAAAnNxAH4ArHEAfgCvc3EAfgCwc3EAfgCzdXEAfgC2AAAAA3NxAH4AuHEAfgC7c3EAfgC4cQB+AL1xAH4Av3NxAH4ArHEAfgDBc3EAfgCwc3EAfgCzdXEAfgC2AAAAAnNxAH4AuHEAfgDGcQB+AL9zcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAJdAAgcHJvc2NhbGEuaW1wbGljaXRzLnBheXJvbGwuRmluYWx1cQB+AJMAAAAAcQB+AJd1cQB+AJkAAAAAc3EAfgCbcQB+AKFzcQB+AJtzcQB+AKNzcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXEAfgB+AAAAAHNxAH4Am3VxAH4AqgAAAAJzcQB+AKxxAH4Ar3NxAH4AsHNxAH4As3VxAH4AtgAAAANzcQB+ALhxAH4Au3NxAH4AuHEAfgC9cQB+AL9zcQB+AKxxAH4AwXNxAH4AsHNxAH4As3VxAH4AtgAAAAJzcQB+ALhxAH4AxnEAfgC/c3EAfgCAcQB+AI11cQB+AI4AAAAAc3EAfgCQAHQAI3Byb3NjYWxhLmltcGxpY2l0cy5wYXlyb2xsLkVtcGxveWVldXEAfgCTAAAAAH5xAH4AlXQACENsYXNzRGVmdXEAfgCZAAAAAHNxAH4Am3EAfgChc3EAfgCbc3EAfgCjc3EAfgCbdXEAfgB+AAAAAHNxAH4Am3VxAH4AfgAAAABzcQB+AJt1cQB+AKoAAAAGc3EAfgCsdAAMU2VyaWFsaXphYmxlc3EAfgCwc3EAfgCzdXEAfgC2AAAAAnNxAH4AuHEAfgDGcQB+AL9zcQB+AKxxAH4BDXNxAH4AsHNxAH4As3VxAH4AtgAAAANzcQB+ALhxAH4Au3NxAH4AuHQAAmlvcQB+AL9zcQB+AKx0AAdQcm9kdWN0cQB+AQ5zcQB+AKx0AAZFcXVhbHNxAH4BDnNxAH4ArHEAfgCvc3EAfgCwc3EAfgCzdXEAfgC2AAAAA3NxAH4AuHEAfgC7c3EAfgC4cQB+AL1xAH4Av3NxAH4ArHEAfgDBcQB+AQ5zcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAecHJvc2NhbGEuaW1wbGljaXRzLnBheXJvbGw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
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwcrdfdgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAARzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCOlexbdAAJanJvd1RvSW50c3EAfgALqpIL2XQABFNSb3dzcQB+AAtkekSrdAAManJvd1RvU3RyaW5nc3EAfgALr3ryFnQADGpyb3dUb0RvdWJsZXVxAH4ACQAAABhzcQB+AAtURggDdAAGbm90aWZ5c3EAfgAL4+Kb53QABHdhaXRzcQB+AAucuecYdAANJGFzSW5zdGFuY2VPZnNxAH4AC4w6Ux90AAZlcXVhbHNzcQB+AAuc/cGFdAAMYXNJbnN0YW5jZU9mc3EAfgALv+CE03QADHN5bmNocm9uaXplZHNxAH4AC2smr+d0AA0kaXNJbnN0YW5jZU9mc3EAfgALRk3eJ3QACWltcGxpY2l0c3NxAH4ACz+9UAZ0AARtYWluc3EAfgALTYDpZ3QACW5vdGlmeUFsbHNxAH4AC/d1Bhl0AAxpc0luc3RhbmNlT2ZzcQB+AAs5aNnKdAAGPGluaXQ+c3EAfgAL4EyiznQAAj09c3EAfgALO6UmgHQABWNsb25lc3EAfgALyA+OjHQACHRvU3RyaW5nc3EAfgALTlxQdXQAAiE9c3EAfgALNRdY6nQAA2dldHNxAH4AC4vdj990AAhnZXRDbGFzc3NxAH4AC15pKrt0AAJEQnNxAH4AC6/vsSx0AAJuZXNxAH4AC7lqQPl0AAJlcXNxAH4ACwhuGTd0AAIjI3NxAH4ACxeCAXN0AAhmaW5hbGl6ZXNxAH4AC4qbST10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACZwcm9nc2NhbGEyLmltcGxpY2l0cy5zY2FsYWRiLmltcGxpY2l0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AGxzcQB+AGd1cQB+AEoAAAAAc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aa3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLc3EAfgBMcQB+AFl1cQB+AFoAAAAAc3EAfgBcAHQAH3Byb2dzY2FsYTIuaW1wbGljaXRzLnNjYWxhZGIuREJ1cQB+AF8AAAAAcQB+AGN1cQB+AGUAAAAAc3EAfgBncQB+AG1zcQB+AGdzcQB+AG9zcQB+AGd1cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+ACd1cQB+AF8AAAAAc3EAfgB4dAAEVW5pdHNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIRxAH4AknEAfgCLdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4An3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AYnQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AeVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aa3NxAH4AeHQABUFycmF5cQB+AKd1cQB+AHYAAAABc3EAfgB4dAAGU3RyaW5nc3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHEAfgCHc3EAfgCEcQB+AIlxAH4Ai3NxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AHYAAAACc3EAfgB4cQB+AHtxAH4AwXNxAH4AeHEAfgCNcQB+AKd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABRwcm9nc2NhbGEyLmltcGxpY2l0c3NxAH4AznQACnByb2dzY2FsYTJzcQB+AM50ABxwcm9nc2NhbGEyLmltcGxpY2l0cy5zY2FsYWRic3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaNFHKeHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AD4vaG9tZS9meC93b3JrL1Byb2dyYW1taW5nIFNjYWxhL2NoMDUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHBefFY7lIjjtBvXbfhmPUfSrgP0
+external apis:
+0 items
+source infos:
+4 items
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/java-database-api.scala -> 
+AAAAAAAAAAA=
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types-pipeline.scala -> 
+AAAAAAAAAAA=
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/phantom-types.scala -> 
+AAAAAAAAAAA=
+/home/fx/work/Programming Scala/ch05/src/main/scala/progscala2/implicits/scala-database-api.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjRNY891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gwNS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjRRynh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gwNS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjl7z051cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gwNS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjmDw3B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gwNS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
