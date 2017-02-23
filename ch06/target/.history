@@ -1,0 +1,5 @@
+run
+run-main progscala2.fp.loops.Factorial
+run
+console
+exit
