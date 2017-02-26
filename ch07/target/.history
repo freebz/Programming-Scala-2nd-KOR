@@ -1,0 +1,9 @@
+run
+run src/main/scala/progscala2/forcomps/RemoveBlanks.scala
+run -src/main/scala/progscala2/forcomps/RemoveBlanks.scala
+run src/main/scala/progscala2/forcomps/RemoveBlanks.scala
+run -src/main/scala/progscala2/forcomps/RemoveBlanks.scala
+console
+compile
+console
+exit
