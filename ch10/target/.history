@@ -1,0 +1,9 @@
+console
+run
+def m(l: List[Int]): List[Int] = l map (i => ???)
+console
+run
+run-main progscala2.objectsystem.CommandArgs -f
+run-main progscala2.objectsystem.CommandArgs -i foo -o bar
+console
+exit

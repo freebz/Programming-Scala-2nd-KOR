@@ -1,0 +1,10 @@
+// src/main/scala/progscala2/objectsystem/variance/mutable-type-variance.scX
+
+class ContainerPlus[+A](var value: A)
+<console>:7: error: covariant type A occurs in contravariant position in type A of value value_=
+       class ContainerPlus[+A](var value: A)
+             ^
+
+class ContainerMinus[-A](var value: A)
+<console>:7: error: contravariant type A occurs in covariant position in type => A of method value
+       class ContainerMinus[-A](var value: A)
