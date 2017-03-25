@@ -1,0 +1,31 @@
+// src/main/java/progscala2/bigdata/HadoopWordCount.javaX
+...
+class WordCountMapper extends MapReduceBase
+    implements Mapper<IntWritable, Text, Text, IntWritable> {
+
+  static final IntWritable one = new IntWritable(1);
+  static final Text word = new Text;
+
+  @Override public void map(IntWritable key, Text valueDocContents,
+      OutputCollector<Text, IntWritable> output, Peporter reporter) {
+    String[] tokens = valueDocContents.toString.split("\\s+");
+    for (String wordString: tokens) {
+      if (wordString.length > 0) {
+	word.set(wordString.toLowerCase);
+	output.collect(word, one);
+      }
+    }
+  }
+}
+
+class WordCountReduce extends MapReduceBase
+    implements Reducer<Text, IntWritable, Text, IntWritable> {
+  public void reduce(Text keyWord, java.uitl.Iterator<IntWritable> counts,
+      OutputCollector<Text, IntWritable> output, Reporter reporter) {
+    int totalCount = 0;
+    while (counts.hasNext) {
+      totalCount += counts.next.get;
+    }
+    output.collect(keyWord, new IntWritable(totalCount));
+  }
+}

@@ -1,0 +1,38 @@
+// src/main/java/progscala2/bigdata/CascadingWordCount.javaX
+package impatient;
+import ...;
+
+public class CascadingWordCount {
+  public static void main( String[] args ) {
+    String input = args[0];
+    String output = args[1];
+
+    Properties properties = new Properties();
+    AppProps.setApplicationJarClass( properties, Main.class );
+    HadoopFlowConnector flowConnector = new HadoopFlowConnector( properties );
+
+    Tap docTap = new Hfs( new TextDelimited( true, "\t" ), input );
+    Tap wcTap = new Hfs( new TextDelimited( true, "\t" ), output );
+
+    Fields token = new Fields( "token" );
+    Fields text = new Fields( "text" );
+    RegexSplitGenerator splitter =
+      new RegexSplitGenerator( token, "[ \\[\\]\\(\\),.]" );
+    Pipe docPipe =
+      new Each( "token", text, splitter, Fields.RESULTS );
+
+    Pipe wcPipe = new Pipe( "wc", docPipe );
+    wcPipe = new GroupBy( wcPipe, token );
+    wcPipe = new Every( wcPipe, Fields.ALL, new Count(), Fields.ALL);
+
+    // 수도꼭지, 파이프 등을 흐름으로 연결한다.
+    FlowDef flowDef = FlowDef.flowDef()
+      .setName( "wc" )
+      .addSource( docPipe, docTap )
+      .addTailSink( wcPipe, wcTap );
+
+    // 흐름을 실행한다.
+    Flow wcFlow = flowConnector.connect( flowDef );
+    wcFlow.complete();
+  }
+}

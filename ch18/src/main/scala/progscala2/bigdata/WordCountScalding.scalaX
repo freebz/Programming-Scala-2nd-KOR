@@ -1,0 +1,14 @@
+// src/main/scala/progscala2/bigdata/WordCountScalding.scalaX
+
+import com.twitter.scalding._
+
+class WordCount(args: Args) extends Job(args) {
+
+  TextLine(args("input"))
+    .read
+    .flatMap('line -> 'word) {
+      line: String => line.trim.toLowerCase.split("""\s+""")
+    }
+    .groupBy('word){ group => group.size('count) }
+    .write(Tsv(args("output")))
+}
