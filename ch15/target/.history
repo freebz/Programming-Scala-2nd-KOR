@@ -1,0 +1,4 @@
+console
+:load src/main/scala/progscala2/typesystem/typelambdas/Functor.sc
+console
+exit
