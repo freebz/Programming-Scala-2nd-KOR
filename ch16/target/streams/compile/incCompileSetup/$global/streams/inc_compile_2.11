@@ -1,0 +1,421 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+50 items
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctionF$$anon$1$$anonfun$map$1.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctionF$$anon$1.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctionF$.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctionF.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/Functor.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/OptionF$.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/OptionF.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/SeqF$.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/SeqF.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$1.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$2.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$1.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$3$$anonfun$apply$mcV$sp$4.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$3.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$4$$anonfun$apply$mcV$sp$5.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$4$$anonfun$apply$mcV$sp$6.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$4.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$7$$anonfun$15.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$7.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$6.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$apply$mcV$sp$9.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$progscala2$fp$categories$FunctorProperties$$anonfun$$anonfun$$id$1$1.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$10.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$8.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$9.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$apply$mcV$sp$13$$anonfun$16.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$apply$mcV$sp$13.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$11.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$12.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$13.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$14.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$17.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$apply$mcV$sp$12.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$id$1.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$testFunctionMorphism$1.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$testSeqMorphism$1.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/Monad$class.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/Monad.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/OptionM$.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/OptionM.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/SeqM$.class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> /home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/SeqM.class
+binary dependencies:
+8 items
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.5.jar
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> /home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+50 items
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.FunctionF
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.FunctionF$
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.FunctionF$$anon$1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.FunctionF$$anon$1$$anonfun$map$1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.Functor
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.OptionF
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.OptionF$
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.SeqF
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2.fp.categories.SeqF$
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$2
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$3
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$3
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$3$$anonfun$apply$mcV$sp$4
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$4
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$4$$anonfun$apply$mcV$sp$5
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$4$$anonfun$apply$mcV$sp$6
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$5
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$7
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$7$$anonfun$15
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$6
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$apply$mcV$sp$9
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$progscala2$fp$categories$FunctorProperties$$anonfun$$anonfun$$id$1$1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$10
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$8
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$9
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$apply$mcV$sp$13
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$apply$mcV$sp$13$$anonfun$16
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$11
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$12
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$13
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$14
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$17
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$apply$mcV$sp$12
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$id$1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$testFunctionMorphism$1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2.fp.categories.FunctorProperties$$anonfun$testSeqMorphism$1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> progscala2.fp.categories.Monad
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> progscala2.fp.categories.Monad$class
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> progscala2.fp.categories.OptionM
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> progscala2.fp.categories.OptionM$
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> progscala2.fp.categories.SeqM
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> progscala2.fp.categories.SeqM$
+used names:
+175 items
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> $anon
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> <init>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> <refinement>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> A
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> A2
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> A3
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> Any
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> AnyRef
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> B
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> CanBuildFrom
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> Coll
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> F
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> Function1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> FunctionF
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> Functor
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> Nothing
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> Object
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> Option
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> OptionF
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> Seq
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> SeqF
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> That
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> _root_
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> a
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> apply
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> canBuildFrom
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> categories
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> collection
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> f
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> fp
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> func
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> functor
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> higherKinds
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> language
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> map
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> opt
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> package
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> progscala2
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> scala
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> seq
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> β
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> λ
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> $conforms
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> $org_scalatest_assert_macro_expr
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> $org_scalatest_assert_macro_left
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> $org_scalatest_assert_macro_right
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> *
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> +
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> <:<
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> <byname>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> <init>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> <refinement>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> <repeated>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> ===
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> A
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> A2
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Any
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> AnyRef
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Arbitrary
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> AssertionsHelper
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> B
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Bool
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Boolean
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Buildable
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> C
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> CanBuildFrom
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Coll
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Equality
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Equalizer
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> F
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> FunSpec
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Function1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> FunctionF
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> FunctorProperties
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Int
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> ItWord
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> List
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Nothing
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Predef
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> PropertyCheckConfig
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> PropertyChecks
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Seq
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> SeqF
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Shrink
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> String
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> T
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Tag
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Traversable
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> Unit
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> _root_
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> apply
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> arbContainer
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> arbInt
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> assert
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> assertionsHelper
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> binaryMacroBool
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> buildableCanBuildFrom
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> canBuildFrom
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> categories
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> compose
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> convertToEqualizer
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> default
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> describe
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> empty
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> f
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> f1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> f2
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> f3
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> forAll
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> fp
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> g
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> generatorDrivenConfig
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> i
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> id
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> identity
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> immutable
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> it
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> l
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> m12
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> m23
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> macroAssert
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> map
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> org
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> package
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> progscala2
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> prop
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> scala
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> scalacheck
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> scalactic
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> scalatest
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> seq
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> shrinkContainer
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> shrinkInt
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> testFunctionMorphism
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> testSeqMorphism
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> toString
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> util
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> <byname>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> <init>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> <repeated>
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> A
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> Any
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> AnyRef
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> B
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> CanBuildFrom
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> Coll
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> Function1
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> GenTraversableOnce
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> M
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> Monad
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> Nothing
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> Object
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> Option
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> OptionM
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> Seq
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> SeqM
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> That
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> _root_
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> a
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> apply
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> canBuildFrom
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> categories
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> collection
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> f
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> fa
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> flatMap
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> fp
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> higherKinds
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> language
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> opt
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> package
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> progscala2
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> scala
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> seq
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> unit
+product stamps:
+50 items
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctionF$$anon$1$$anonfun$map$1.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctionF$$anon$1.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctionF$.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctionF.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/Functor.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$1.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$2.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$1.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$3$$anonfun$apply$mcV$sp$4.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3$$anonfun$apply$mcV$sp$3.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$3.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$4$$anonfun$apply$mcV$sp$5.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$4$$anonfun$apply$mcV$sp$6.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$4.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$7$$anonfun$15.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$7.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$6.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$apply$mcV$sp$9.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8$$anonfun$progscala2$fp$categories$FunctorProperties$$anonfun$$anonfun$$id$1$1.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5$$anonfun$apply$mcV$sp$8.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$5.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$10.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$8.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$9.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$apply$mcV$sp$13$$anonfun$16.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10$$anonfun$apply$mcV$sp$13.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$10.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$11.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$12.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$13.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$14.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$17.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11$$anonfun$apply$mcV$sp$12.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7$$anonfun$apply$mcV$sp$11.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$7.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$id$1.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$testFunctionMorphism$1.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties$$anonfun$testSeqMorphism$1.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/FunctorProperties.class -> lastModified(1490062511000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/Monad$class.class -> lastModified(1490063608000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/Monad.class -> lastModified(1490063608000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/OptionF$.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/OptionF.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/OptionM$.class -> lastModified(1490063608000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/OptionM.class -> lastModified(1490063608000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/SeqF$.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/SeqF.class -> lastModified(1490053272000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/SeqM$.class -> lastModified(1490063608000)
+/home/fx/work/Programming Scala/ch16/target/scala-2.11/classes/progscala2/fp/categories/SeqM.class -> lastModified(1490063608000)
+source stamps:
+3 items
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> hash(1bd192242b53b68745f89693583f3547b60cbd82)
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> hash(bda16de29d2f986018173c63e4362ff80418970f)
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> hash(bb91710d97c2e6d49e1e0975192abdfac114660e)
+binary stamps:
+4 items
+/home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/home/fx/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.5.jar -> lastModified(1441618197000)
+/home/fx/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar -> lastModified(1422515758000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1485187082000)
+class names:
+4 items
+/home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.Seq
+/home/fx/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.5.jar -> org.scalacheck.Shrink
+/home/fx/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar -> org.scalatest.prop.PropertyChecks
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBUVkKgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwPDKkmHQABm5vdGlmeXNxAH4ADInP7MF0AAR3YWl0c3EAfgAMnOTisXQADSRhc0luc3RhbmNlT2ZzcQB+AAz+jxnWdAADbWFwc3EAfgAM79fb6nQABmVxdWFsc3NxAH4ADNE84Dp0AAxhc0luc3RhbmNlT2ZzcQB+AAywVsKhdAAMc3luY2hyb25pemVkc3EAfgAM74QH6nQADSRpc0luc3RhbmNlT2ZzcQB+AAxtYu58dAAJbm90aWZ5QWxsc3EAfgAMjpZL2HQADGlzSW5zdGFuY2VPZnNxAH4ADCFu1M90AARTZXFGc3EAfgAMLDU263QAAj09c3EAfgAMgDHBcXQABWNsb25lc3EAfgAM3P7VxXQAB09wdGlvbkZzcQB+AAzA8T3pdAAIdG9TdHJpbmdzcQB+AAxTyDJldAAJRnVuY3Rpb25Gc3EAfgAMqYZYpXQAB0Z1bmN0b3JzcQB+AAwoH2v1dAACIT1zcQB+AAyPO9fMdAAIZ2V0Q2xhc3NzcQB+AAyKYqUhdAACbmVzcQB+AAzMeorrdAACZXFzcQB+AAyOAdcUdAACIyNzcQB+AAz9Kgc8dAAIZmluYWxpemVzcQB+AAyRbRUedAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAgcHJvZ3NjYWxhMi5mcC5jYXRlZ29yaWVzLkZ1bmN0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4ATEwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AElMAAp1cHBlckJvdW5kcQB+AFpMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AFIAAAAAdAAicHJvZ3NjYWxhMi5mcC5jYXRlZ29yaWVzLkZ1bmN0b3IuRnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBudXEAfgBXAAAAAXNxAH4AWXVxAH4AUgAAAAB0ACJwcm9nc2NhbGEyLmZwLmNhdGVnb3JpZXMuRnVuY3Rvci5fcQB+AGN1cQB+AFcAAAAAc3EAfgBfdAADQW55cQB+AGd+cgASeHNidGkuYXBpLlZhcmlhbmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAJSW52YXJpYW50cQB+AHhxAH4AfH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4Ae3QABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgBhc3EAfgCDc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AYnNxAH4Ag3VxAH4AQgAAAABzcQB+AIN1cQB+AEIAAAAAc3EAfgCDdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcQB+AF90AAZPYmplY3RzcQB+AGVzcQB+AGh1cQB+AGsAAAADc3EAfgBtdAAEamF2YXNxAH4AbXQABGxhbmdxAH4AcnNxAH4AX3EAfgB5c3EAfgBlc3EAfgBodXEAfgBrAAAAAnNxAH4AbXEAfgBwcQB+AHJzcQB+AERxAH4AUXVxAH4AUgAAAABzcQB+AFQAdAAdcHJvZ3NjYWxhMi5mcC5jYXRlZ29yaWVzLlNlcUZ1cQB+AFcAAAAAfnEAfgB+dAAGTW9kdWxldXEAfgCBAAAAAHNxAH4Ag3EAfgCHc3EAfgCDc3EAfgCJc3EAfgCDdXEAfgBCAAAAAHNxAH4Ag3VxAH4AQgAAAABzcQB+AIN1cQB+AJAAAAADc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBgWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBhc3EAfgBfdAAHRnVuY3RvcnNxAH4AZXNxAH4AaHVxAH4AawAAAARzcQB+AG10AApwcm9nc2NhbGEyc3EAfgBtdAACZnBzcQB+AG10AApjYXRlZ29yaWVzcQB+AHJ1cQB+AJAAAAABc3EAfgBfdAADU2Vxc3EAfgBfdAAHcGFja2FnZXNxAH4AX3EAfgBwc3EAfgBlc3EAfgBodXEAfgBrAAAAAXEAfgByc3EAfgBfcQB+AJNzcQB+AGVzcQB+AGh1cQB+AGsAAAADc3EAfgBtcQB+AJhzcQB+AG1xAH4AmnEAfgByc3EAfgBfcQB+AHlzcQB+AGVzcQB+AGh1cQB+AGsAAAACc3EAfgBtcQB+AHBxAH4AcnNxAH4ARHEAfgBRdXEAfgBSAAAAAHNxAH4AVAB0ACBwcm9nc2NhbGEyLmZwLmNhdGVnb3JpZXMuT3B0aW9uRnVxAH4AVwAAAABxAH4ApXVxAH4AgQAAAABzcQB+AINxAH4Ah3NxAH4Ag3NxAH4AiXNxAH4Ag3VxAH4AQgAAAABzcQB+AIN1cQB+AEIAAAAAc3EAfgCDdXEAfgCQAAAAA3NxAH4AsXNxAH4AX3QAB0Z1bmN0b3JzcQB+AGVzcQB+AGh1cQB+AGsAAAAEc3EAfgBtdAAKcHJvZ3NjYWxhMnNxAH4AbXQAAmZwc3EAfgBtdAAKY2F0ZWdvcmllc3EAfgBydXEAfgCQAAAAAXNxAH4AX3QABk9wdGlvbnNxAH4AZXNxAH4AaHVxAH4AawAAAAJzcQB+AG1xAH4AcHEAfgByc3EAfgBfcQB+AJNzcQB+AGVzcQB+AGh1cQB+AGsAAAADc3EAfgBtcQB+AJhzcQB+AG1xAH4AmnEAfgByc3EAfgBfcQB+AHlxAH4A8XNxAH4ARHEAfgBRdXEAfgBSAAAAAHNxAH4AVAB0ACJwcm9nc2NhbGEyLmZwLmNhdGVnb3JpZXMuRnVuY3Rpb25GdXEAfgBXAAAAAHEAfgCldXEAfgCBAAAAAHNxAH4Ag3EAfgCHc3EAfgCDc3EAfgCJc3EAfgCDdXEAfgBCAAAAAHNxAH4Ag3VxAH4AQgAAAABzcQB+AIN1cQB+AJAAAAACc3EAfgBfcQB+AJNzcQB+AGVzcQB+AGh1cQB+AGsAAAADc3EAfgBtcQB+AJhzcQB+AG1xAH4AmnEAfgByc3EAfgBfcQB+AHlzcQB+AGVzcQB+AGh1cQB+AGsAAAACc3EAfgBtcQB+AHBxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnByb2dzY2FsYTJzcQB+ARh0AA1wcm9nc2NhbGEyLmZwc3EAfgEYdAAYcHJvZ3NjYWxhMi5mcC5jYXRlZ29yaWVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFa7hiRcHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS9meC93b3JrL1Byb2dyYW1taW5nIFNjYWxhL2NoMTYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBvRkiQrU7aHRfiWk1g/NUe2DL2C
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkTkUwgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDwirBEdAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgALfKLzOXQAEmNvbnZlcnRUb0VxdWFsaXplcnNxAH4ACzrinop0ABVnZW5lcmF0b3JEcml2ZW5Db25maWd1cQB+AAkAAACbc3EAfgALfomCXXQABmFzc2VydHNxAH4AC2qVdEl0AAZub3RpZnlzcQB+AAtHqOH1dAAmbG93UHJpb3JpdHlDb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAsaH/N/dAARRnVuY3RvclByb3BlcnRpZXNzcQB+AAtlnjfzdAAHdW5hcHBseXNxAH4AC/2isK10AAdjdXJyaWVkc3EAfgALi4RpQ3QAEEFzc2VydGlvbnNIZWxwZXJzcQB+AAvXhSfjdAATUHJvcGVydHlDaGVja0NvbmZpZ3NxAH4ACxXxevh0AAZjYW5jZWxzcQB+AAtop+XodAARZXhlY3V0ZSRkZWZhdWx0JDJzcQB+AAt/zPqadAAMZXhwZWN0UmVzdWx0c3EAfgALvgozj3QACWludGVyY2VwdHNxAH4AC1M6ZvZ0AARmYWlsc3EAfgALWlfyXXQABG5hbWVzcQB+AAtF/cVFdAAUYXNzZXJ0RG9lc05vdENvbXBpbGVzcQB+AAuFQfpTdAARZXhlY3V0ZSRkZWZhdWx0JDRzcQB+AAslSeIAdAAHZXhlY3V0ZXNxAH4AC66ZJdt0AAR3YWl0c3EAfgALgq1iA3QAD2FwcGx5JGRlZmF1bHQkNHNxAH4ACw+iupF0ABA8aW5pdD4kZGVmYXVsdCQ1c3EAfgALe64KvnQAC3Rlc3REYXRhRm9yc3EAfgALiOLvL3QAE2NyZWF0ZUNhdGNoUmVwb3J0ZXJzcQB+AAvf+H3WdAAJc3R5bGVOYW1lc3EAfgALa68RNnQADmNvcHkkZGVmYXVsdCQyc3EAfgALT98dAXQADSRhc0luc3RhbmNlT2ZzcQB+AAs/oFtNdAARZXhlY3V0ZSRkZWZhdWx0JDNzcQB+AAti5g+BdAAOY29weSRkZWZhdWx0JDVzcQB+AAvhZlR+dAAHY29tcG9zZXNxAH4AC6+Zp4F0AA90ZXN0U2VxTW9ycGhpc21zcQB+AAvuhR6VdAAXQ29uZmlndXJlZFByb3BlcnR5Q2hlY2tzcQB+AAua4cP3dAAQPGluaXQ+JGRlZmF1bHQkMXNxAH4AC4ixBnB0AAljb25maWdNYXBzcQB+AAu/KNVHdAAMcHJvZHVjdEFyaXR5c3EAfgAL/RHflXQABmVxdWFsc3NxAH4AC5H1qhJ0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb252ZXJzaW9uQ29uc3RyYWludHNxAH4ACw7K5F10AA9kZWZhdWx0RXF1YWxpdHlzcQB+AAttq09qdAAiY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29uc3RyYWludHNxAH4AC+p6y6B0AARtdXN0c3EAfgALVjfGFnQABHRhZ3NzcQB+AAtbrdvAdAAMYXNJbnN0YW5jZU9mc3EAfgALRGPiYnQABWFsZXJ0c3EAfgALOnD2VHQAB3dvcmtlcnNzcQB+AAum9k8wdAADcnVuc3EAfgAL0R91r3QAD0xlZ2FjeUVxdWFsaXplcnNxAH4AC8dtLsB0AAZzY29wZXNzcQB+AAsJJnuVdAAYY29udmVydFRvTGVnYWN5RXF1YWxpemVyc3EAfgALa09ojXQADHN5bmNocm9uaXplZHNxAH4AC9HAPi50AAJpdHNxAH4AC5fTuht0AA1NaW5TdWNjZXNzZnVsc3EAfgALKV7qw3QADmFzc2VydENvbXBpbGVzc3EAfgALCkiQIHQADSRpc0luc3RhbmNlT2ZzcQB+AAv79anZdAAEdHJhcHNxAH4AC7MDflJ0ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAuwzS+EdAAHYW5kVGhlbnNxAH4ACxrxs/l0AA9hcHBseSRkZWZhdWx0JDNzcQB+AAsYDPHQdAAMYXNzZXJ0UmVzdWx0c3EAfgALFApvF3QAEDxpbml0PiRkZWZhdWx0JDRzcQB+AAuDNYkmdAAGdHVwbGVkc3EAfgAL70go9nQAB01heFNpemVzcQB+AAuK1b1gdAAEdGV4dHNxAH4AC+s410F0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC2lQMB90AAhjYW5FcXVhbHNxAH4AC1k+3FZ0AAhkZXNjcmliZXNxAH4AC6DXhrl0AA5jb3B5JGRlZmF1bHQkNHNxAH4AC4T0MPp0AAR0aGV5c3EAfgAL5PEVdXQAEWV4ZWN1dGUkZGVmYXVsdCQ3c3EAfgALj4Adc3QADXByb2R1Y3RQcmVmaXhzcQB+AAue1sF3dAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALEP9w9HQAAyE9PXNxAH4ACyQuJzh0AARpbmZvc3EAfgALhNr8/HQACW5vdGlmeUFsbHNxAH4ACwXQqqd0AAh3aGVuZXZlcnNxAH4AC4ae/Rx0AAt3aXRoRml4dHVyZXNxAH4ACwbfccJ0AAdydW5UZXN0c3EAfgALm8dD7HQADGlzSW5zdGFuY2VPZnNxAH4AC4BGuV50AAh3aXRoQ2x1ZXNxAH4ACzkd20B0ABBhc3NlcnRpb25zSGVscGVyc3EAfgALEfJEqnQAEWV4ZWN1dGUkZGVmYXVsdCQ2c3EAfgALKVTda3QAD2Fzc2VydFR5cGVFcnJvcnNxAH4ACzZGuqt0ABA8aW5pdD4kZGVmYXVsdCQzc3EAfgALAoF2rHQABm1hcmt1cHNxAH4AC7L/0o90AAhsZWZ0U2lkZXNxAH4AC89iE1h0AAY8aW5pdD5zcQB+AAu6GxBxdAALbWFjcm9Bc3N1bWVzcQB+AAuuP+v6dAAHTWluU2l6ZXNxAH4ACx1E5bl0AA9ydW5OZXN0ZWRTdWl0ZXNzcQB+AAv5gVs7dAAYUHJvcGVydHlDaGVja0NvbmZpZ1BhcmFtc3EAfgALHe2yb3QAAmlkc3EAfgALWLMYCXQAD2FwcGx5JGRlZmF1bHQkMnNxAH4AC34G3vZ0AAZJdFdvcmRzcQB+AAs4OUnadAAFYXBwbHlzcQB+AAv+I6CudAAJRXF1YWxpemVyc3EAfgALjOVFQHQAG25ld0Fzc2VydGlvbkZhaWxlZEV4Y2VwdGlvbnNxAH4AC4k41Vx0AARub3Rlc3EAfgAL7wGd2nQAAj09c3EAfgALKtx/yHQADW1pblN1Y2Nlc3NmdWxzcQB+AAtxXwyzdAAFY2xvbmVzcQB+AAtP9AsPdAAGZXhwZWN0c3EAfgALvP28b3QABnNob3VsZHNxAH4AC3ozUIh0AAVUYWJsZXNxAH4AC2CkDj90AAdXb3JrZXJzc3EAfgALFSNvWnQADG5lc3RlZFN1aXRlc3NxAH4AC2Izfld0AAZhc3N1bWVzcQB+AAtpa0n7dAAGJGluaXQkc3EAfgALHrOcI3QAIGxvd1ByaW9yaXR5VHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALZp/BFXQACFRoZXlXb3Jkc3EAfgALjbhnbHQADHJlZ2lzdGVyVGVzdHNxAH4AC/KaBQh0ABFleGVjdXRlJGRlZmF1bHQkNXNxAH4AC1Aw/G10AA5jb3B5JGRlZmF1bHQkM3NxAH4ACyeQT+p0AARjb3B5c3EAfgALbKdPJnQAD2FwcGx5JGRlZmF1bHQkMXNxAH4ACw++GPh0AAM9PT1zcQB+AAuN4ky9dAAYbmV3VGVzdENhbmNlbGVkRXhjZXB0aW9uc3EAfgALqzkhaHQACHRvU3RyaW5nc3EAfgALmJkB6HQACXRlc3ROYW1lc3NxAH4ACzfwQAl0ABFleGVjdXRlJGRlZmF1bHQkMXNxAH4AC6aRT9l0AAIhPXNxAH4ACzPUJNZ0AAlnZXRQYXJhbXNzcQB+AAtHTfqLdAAPYXBwbHkkZGVmYXVsdCQ1c3EAfgALonNKE3QADE1heERpc2NhcmRlZHNxAH4AC3mRzXF0ABdMZWdhY3lDaGVja2luZ0VxdWFsaXplcnNxAH4AC+j3xxx0AAhnZXRDbGFzc3NxAH4ACxbhOVB0ABNyZWdpc3Rlcklnbm9yZWRUZXN0c3EAfgALcBoKk3QABmJlaGF2ZXNxAH4AC7SPplt0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC5beug90AAhydW5UZXN0c3NxAH4AC1UOkQ90ABFwZW5kaW5nVW50aWxGaXhlZHNxAH4AC86DBxV0ABFleHBlY3RlZFRlc3RDb3VudHNxAH4AC0no75B0AAhyZXJ1bm5lcnNxAH4AC7EJgHV0ABR0ZXN0RnVuY3Rpb25Nb3JwaGlzbXNxAH4ACx5BH3d0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb25zdHJhaW50c3EAfgALp64h+3QAAm5lc3EAfgALsUXwsXQAB21heFNpemVzcQB+AAuY1DFidAAOc291cmNlRmlsZU5hbWVzcQB+AAsz6uQmdAAGZm9yQWxsc3EAfgAL533DGXQAEUNoZWNraW5nRXF1YWxpemVyc3EAfgALpQqycXQAIGNvbnZlcnRUb0xlZ2FjeUNoZWNraW5nRXF1YWxpemVyc3EAfgALZ0G0EXQAB3BlbmRpbmdzcQB+AAsSLyXQdAAFdmFsdWVzcQB+AAsCCvlYdAAGaWdub3Jlc3EAfgALult77HQAC21hY3JvQXNzZXJ0c3EAfgALOnpbs3QAEDxpbml0PiRkZWZhdWx0JDJzcQB+AAuEFOSkdAACZXFzcQB+AAuXsEjWdAAaY29udmVydFRvQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAvornvMdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALJOLC63QADG1heERpc2NhcmRlZHNxAH4ACwAby6N0AAlOb0FyZ1Rlc3RzcQB+AAtwa/KmdAAHbWluU2l6ZXNxAH4AC8/kAwJ0AAIjI3NxAH4ACzI8c1V0AAhmaW5hbGl6ZXNxAH4AC1AxDjp0ABtjb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAusn3vfdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsvMc2udAAIaGFzaENvZGVzcQB+AAuc8WkudAAHc3VpdGVJZHNxAH4AC+XCNYh0AAlzdWl0ZU5hbWVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgFTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAqcHJvZ3NjYWxhMi5mcC5jYXRlZ29yaWVzLkZ1bmN0b3JQcm9wZXJ0aWVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgFtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AVNMAAlpbmhlcml0ZWRxAH4BU0wAB3BhcmVudHNxAH4BU3hxAH4BcnNxAH4BbXVxAH4BTgAAAABzcQB+AW11cQB+AU4AAAAAc3EAfgFtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAABVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgFxdAAOUHJvcGVydHlDaGVja3NzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AXFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4BinQACXNjYWxhdGVzdHNxAH4BinQABHByb3BzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Bi3NxAH4BfnQAHUdlbmVyYXRvckRyaXZlblByb3BlcnR5Q2hlY2tzcQB+AYRzcQB+AX50AA1Db25maWd1cmF0aW9ucQB+AYRzcQB+AX50ABlUYWJsZURyaXZlblByb3BlcnR5Q2hlY2tzcQB+AYRzcQB+AX50AAZUYWJsZXNxAH4BhHNxAH4BfnQACFdoZW5ldmVycQB+AYRzcQB+AX50AAdGdW5TcGVjc3EAfgGCc3EAfgGFdXEAfgGIAAAAA3NxAH4BinQAA29yZ3NxAH4BinQACXNjYWxhdGVzdHEAfgGTc3EAfgF+dAALRnVuU3BlY0xpa2VxAH4BoHNxAH4BfnQAC0RvY3VtZW50aW5ncQB+AaBzcQB+AX50AAhBbGVydGluZ3EAfgGgc3EAfgF+dAAJTm90aWZ5aW5ncQB+AaBzcQB+AX50AAlJbmZvcm1pbmdxAH4BoHNxAH4BfnQAEFRlc3RSZWdpc3RyYXRpb25xAH4BoHNxAH4BfnQABVN1aXRlcQB+AaBzcQB+AX50AAxTZXJpYWxpemFibGVzcQB+AYJzcQB+AYV1cQB+AYgAAAADc3EAfgGKdAAEamF2YXNxAH4BinQAAmlvcQB+AZNzcQB+AX50AA1BYnN0cmFjdFN1aXRlcQB+AaBzcQB+AX50AApBc3NlcnRpb25zcQB+AaBzcQB+AX50AAxUcmlwbGVFcXVhbHNzcQB+AYJzcQB+AYV1cQB+AYgAAAADc3EAfgGKdAADb3Jnc3EAfgGKdAAJc2NhbGFjdGljcQB+AZNzcQB+AX50ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+AcRzcQB+AX50AAZPYmplY3RzcQB+AYJzcQB+AYV1cQB+AYgAAAADc3EAfgGKcQB+AbtzcQB+AYp0AARsYW5ncQB+AZNzcQB+AX50AANBbnlzcQB+AYJzcQB+AYV1cQB+AYgAAAACc3EAfgGKdAAFc2NhbGFxAH4Bk3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACnByb2dzY2FsYTJzcQB+Ad50AA1wcm9nc2NhbGEyLmZwc3EAfgHedAAYcHJvZ3NjYWxhMi5mcC5jYXRlZ29yaWVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFa7qVo3nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AD4vaG9tZS9meC93b3JrL1Byb2dyYW1taW5nIFNjYWxhL2NoMTYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFL2hbeKdL5hgGBc8Y+Q2L/gEGJcP
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwcORXVAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwTSxnR3QABm5vdGlmeXNxAH4ADEBxpFR0AAR3YWl0c3EAfgAMtFYUZnQADSRhc0luc3RhbmNlT2ZzcQB+AAyuxvzwdAAFTW9uYWRzcQB+AAwGzivXdAAGZXF1YWxzc3EAfgAMmjhxonQABnJldHVybnNxAH4ADMQtCWp0AAxhc0luc3RhbmNlT2ZzcQB+AAwJhuLEdAADPj49c3EAfgAM/OlApXQADHN5bmNocm9uaXplZHNxAH4ADGgQYYJ0AARiaW5kc3EAfgAM8wScGnQADSRpc0luc3RhbmNlT2ZzcQB+AAw0sAJ+dAAHT3B0aW9uTXNxAH4ADImgnm90AARwdXJlc3EAfgAMEjjhA3QACW5vdGlmeUFsbHNxAH4ADETPaup0AAxpc0luc3RhbmNlT2ZzcQB+AAz8hjJXdAAHZmxhdE1hcHNxAH4ADOBVtzF0AAI9PXNxAH4ADFnsWyl0AAVjbG9uZXNxAH4ADAUTONd0AAYkaW5pdCRzcQB+AAz22oVkdAAIdG9TdHJpbmdzcQB+AAw7utSIdAACIT1zcQB+AAzfjvMcdAAEdW5pdHNxAH4ADC7xUuF0AAhnZXRDbGFzc3NxAH4ADOXS+590AAJuZXNxAH4ADCy9QfZ0AAJlcXNxAH4ADMqvFt90AARTZXFNc3EAfgAMLLUaKnQAAiMjc3EAfgAMH5OjJnQACGZpbmFsaXplc3EAfgAM5+wjSnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAHnByb2dzY2FsYTIuZnAuY2F0ZWdvcmllcy5Nb25hZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgBWTAACaWRxAH4ADUwACmxvd2VyQm91bmR0ABBMeHNidGkvYXBpL1R5cGU7WwAOdHlwZVBhcmFtZXRlcnNxAH4AU0wACnVwcGVyQm91bmRxAH4AZEwACHZhcmlhbmNldAAUTHhzYnRpL2FwaS9WYXJpYW5jZTt4cHVxAH4AXAAAAAB0ACBwcm9nc2NhbGEyLmZwLmNhdGVnb3JpZXMuTW9uYWQuTXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4dXEAfgBhAAAAAXNxAH4AY3VxAH4AXAAAAAB0ACBwcm9nc2NhbGEyLmZwLmNhdGVnb3JpZXMuTW9uYWQuX3EAfgBtdXEAfgBhAAAAAHNxAH4AaXQAA0FueXEAfgBxfnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudHEAfgCCcQB+AIZ+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AIV0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4Aa3NxAH4AjXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AGxzcQB+AI11cQB+AEwAAAAAc3EAfgCNdXEAfgBMAAAAAHNxAH4AjXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBpdAAGT2JqZWN0c3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AGlxAH4Ag3NxAH4Ab3NxAH4AcnVxAH4AdQAAAAJzcQB+AHdxAH4AenEAfgB8c3EAfgBOcQB+AFt1cQB+AFwAAAAAc3EAfgBeAHQAHXByb2dzY2FsYTIuZnAuY2F0ZWdvcmllcy5TZXFNdXEAfgBhAAAAAH5xAH4AiHQABk1vZHVsZXVxAH4AiwAAAABzcQB+AI1xAH4AkXNxAH4AjXNxAH4Ak3NxAH4AjXVxAH4ATAAAAABzcQB+AI11cQB+AEwAAAAAc3EAfgCNdXEAfgCaAAAAA3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AalsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aa3NxAH4AaXQABU1vbmFkc3EAfgBvc3EAfgBydXEAfgB1AAAABHNxAH4Ad3QACnByb2dzY2FsYTJzcQB+AHd0AAJmcHNxAH4Ad3QACmNhdGVnb3JpZXNxAH4AfHVxAH4AmgAAAAFzcQB+AGl0AANTZXFzcQB+AGl0AAdwYWNrYWdlc3EAfgBpcQB+AHpzcQB+AG9zcQB+AHJ1cQB+AHUAAAABcQB+AHxzcQB+AGlxAH4AnXNxAH4Ab3NxAH4AcnVxAH4AdQAAAANzcQB+AHdxAH4AonNxAH4Ad3EAfgCkcQB+AHxzcQB+AGlxAH4Ag3NxAH4Ab3NxAH4AcnVxAH4AdQAAAAJzcQB+AHdxAH4AenEAfgB8c3EAfgBOcQB+AFt1cQB+AFwAAAAAc3EAfgBeAHQAIHByb2dzY2FsYTIuZnAuY2F0ZWdvcmllcy5PcHRpb25NdXEAfgBhAAAAAHEAfgCvdXEAfgCLAAAAAHNxAH4AjXEAfgCRc3EAfgCNc3EAfgCTc3EAfgCNdXEAfgBMAAAAAHNxAH4AjXVxAH4ATAAAAABzcQB+AI11cQB+AJoAAAADc3EAfgC7c3EAfgBpdAAFTW9uYWRzcQB+AG9zcQB+AHJ1cQB+AHUAAAAEc3EAfgB3dAAKcHJvZ3NjYWxhMnNxAH4Ad3QAAmZwc3EAfgB3dAAKY2F0ZWdvcmllc3EAfgB8dXEAfgCaAAAAAXNxAH4AaXQABk9wdGlvbnNxAH4Ab3NxAH4AcnVxAH4AdQAAAAJzcQB+AHdxAH4AenEAfgB8c3EAfgBpcQB+AJ1zcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3cQB+AKJzcQB+AHdxAH4ApHEAfgB8c3EAfgBpcQB+AINxAH4A+3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnByb2dzY2FsYTJzcQB+AQh0AA1wcm9nc2NhbGEyLmZwc3EAfgEIdAAYcHJvZ3NjYWxhMi5mcC5jYXRlZ29yaWVzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFa7rYziXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS9meC93b3JrL1Byb2dyYW1taW5nIFNjYWxhL2NoMTYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLuRcQ2XwubUnh4JdRkqvfrBFGYO
+external apis:
+0 items
+source infos:
+3 items
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Functor.scala -> 
+AAAAAAAAAAA=
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/FunctorProperties.scala -> 
+AAAAAAAAAAA=
+/home/fx/work/Programming Scala/ch16/src/main/scala/progscala2/fp/categories/Monad.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWu4WQ1F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gxNi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWu4YkXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gxNi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWu6laN51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gxNi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWu62M4l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gxNi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
