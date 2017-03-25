@@ -1,0 +1,72 @@
+        <div class="scala-logo">
+          <img src="/resources/img/scala-logo-white.png" alt="Scala Logo" />
+    <a href="http://github.com/scala/scala"><img src="/resources/img/github-logo.png" alt="GitHub Logo" /></a>
+  <li id="scala-lang-twitter">
+    <a href="http://twitter.com/scala_lang"><img src="/resources/img/twitter-logo-white.png" alt="Twitter Logo" /></a>
+          <a class="learn-more-btn" href="/what-is-scala.html">Learn More</a>
+  <a class="central-btn api" href="http://www.scala-lang.org/api/">API Docs&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <div class="big-scala-spiral"><img src="/resources/img/smooth-spiral.png" alt="Spiral" /></div>
+  <div class="central-btn scala-version"><span class="superbold">Scala</span><br/>2.12.1</div>
+      <p class="getting-started"><a href="http://www.scala-lang.org/api/current/"><b>Current API Docs</b></a></p>
+          <a class="learn-more-btn" href="/what-is-scala.html">Learn More</a>
+  <figcaption>Author.scala</figcaption>
+  <pre><code>import static scala.collection.JavaConversions.asJavaCollection;
+  <pre><code>scala> class Person(val name: String, val age: Int) {
+scala> def underagePeopleNames(persons: List[Person]) = {
+scala> def createRandomPeople() = {
+scala> val people = createRandomPeople()
+scala> underagePeopleNames(people)
+   <div class="add-event"><a href="/events">See more events</a> or <a href="https://github.com/scala/scala-lang/tree/master/events">add one to our feed</a></div>
+        <div class="add-training"><a href="/training">See more trainings</a> or <a href="https://github.com/scala/scala-lang/tree/master/training">add one to our feed</a>
+          <div class="news-title"><a href="/blog/2017/03/14/scala-native-0.1-is-here.html">Scala Native v0.1 is here!</a></div>
+<a href="http://www.scala-native.org">Scala Native</a>, an optimising ahead-of-time
+<a href="http://www.scala-native.org">website</a>.</p>
+<a href="https://github.com/scala-native/scala-native/issues">GitHub issues</a>.</p>
+and <a href="https://scala.epfl.ch">Scala Center</a>.</p>
+          <div class="more"><a href="/blog/2017/03/14/scala-native-0.1-is-here.html">more...</a></div>
+          <a class="twitter-timeline" data-tweet-limit="4" data-chrome="noheader nofooter noborders" data-width="520" href="https://twitter.com/scala_lang">Tweets by scala_lang</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a id="twitter-btn" href="https://twitter.com/scala_lang">Follow Scala on Twitter</a>
+        <br/><a style="border-bottom: 0px;" href="https://twitter.com/scala_lang"><img style="padding-top: 8px;" src="/resources/img/twitter-logo-white-lg.png" alt="white Twitter logo"/></a>
+      <li><a href="http://www.scala-lang.org/api/current/index.html#package">API</a></li>
+      <li><a href="http://docs.scala-lang.org/overviews/">Overviews/Guides</a></li>
+      <li><a href="http://docs.scala-lang.org/tutorials/">Tutorials</a></li>
+      <li><a href="https://scala.epfl.ch/">The Scala Center</a></li>
+      <div class="scala-logo-footer">
+        <img src="/resources/img/scala-logo-red-footer.png" alt="Scala footer logo" />
+    <script src="/resources/js/vendor/prettify/lang-scala.js" type="text/javascript" ></script>
+        <div class="scala-logo">
+          <img src="/resources/img/scala-logo-white.png" alt="Scala Logo" />
+    <a href="http://github.com/scala/scala"><img src="/resources/img/github-logo.png" alt="GitHub Logo" /></a>
+  <li id="scala-lang-twitter">
+    <a href="http://twitter.com/scala_lang"><img src="/resources/img/twitter-logo-white.png" alt="Twitter Logo" /></a>
+          <a class="learn-more-btn" href="/what-is-scala.html">Learn More</a>
+  <a class="central-btn api" href="http://www.scala-lang.org/api/">API Docs&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <div class="big-scala-spiral"><img src="/resources/img/smooth-spiral.png" alt="Spiral" /></div>
+  <div class="central-btn scala-version"><span class="superbold">Scala</span><br/>2.12.1</div>
+      <p class="getting-started"><a href="http://www.scala-lang.org/api/current/"><b>Current API Docs</b></a></p>
+          <a class="learn-more-btn" href="/what-is-scala.html">Learn More</a>
+  <figcaption>Author.scala</figcaption>
+  <pre><code>import static scala.collection.JavaConversions.asJavaCollection;
+  <pre><code>scala> class Person(val name: String, val age: Int) {
+scala> def underagePeopleNames(persons: List[Person]) = {
+scala> def createRandomPeople() = {
+scala> val people = createRandomPeople()
+scala> underagePeopleNames(people)
+   <div class="add-event"><a href="/events">See more events</a> or <a href="https://github.com/scala/scala-lang/tree/master/events">add one to our feed</a></div>
+        <div class="add-training"><a href="/training">See more trainings</a> or <a href="https://github.com/scala/scala-lang/tree/master/training">add one to our feed</a>
+          <div class="news-title"><a href="/blog/2017/03/14/scala-native-0.1-is-here.html">Scala Native v0.1 is here!</a></div>
+<a href="http://www.scala-native.org">Scala Native</a>, an optimising ahead-of-time
+<a href="http://www.scala-native.org">website</a>.</p>
+<a href="https://github.com/scala-native/scala-native/issues">GitHub issues</a>.</p>
+and <a href="https://scala.epfl.ch">Scala Center</a>.</p>
+          <div class="more"><a href="/blog/2017/03/14/scala-native-0.1-is-here.html">more...</a></div>
+          <a class="twitter-timeline" data-tweet-limit="4" data-chrome="noheader nofooter noborders" data-width="520" href="https://twitter.com/scala_lang">Tweets by scala_lang</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a id="twitter-btn" href="https://twitter.com/scala_lang">Follow Scala on Twitter</a>
+        <br/><a style="border-bottom: 0px;" href="https://twitter.com/scala_lang"><img style="padding-top: 8px;" src="/resources/img/twitter-logo-white-lg.png" alt="white Twitter logo"/></a>
+      <li><a href="http://www.scala-lang.org/api/current/index.html#package">API</a></li>
+      <li><a href="http://docs.scala-lang.org/overviews/">Overviews/Guides</a></li>
+      <li><a href="http://docs.scala-lang.org/tutorials/">Tutorials</a></li>
+      <li><a href="https://scala.epfl.ch/">The Scala Center</a></li>
+      <div class="scala-logo-footer">
+        <img src="/resources/img/scala-logo-red-footer.png" alt="Scala footer logo" />
+    <script src="/resources/js/vendor/prettify/lang-scala.js" type="text/javascript" ></script>

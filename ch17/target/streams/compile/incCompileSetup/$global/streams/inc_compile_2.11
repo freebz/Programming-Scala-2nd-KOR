@@ -1,0 +1,673 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/AkkaClient$$anonfun$1.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/AkkaClient$$anonfun$exit$1.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/AkkaClient$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/AkkaClient.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Crash$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Crash.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Create$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Create.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Delete$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Delete.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Dump$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Dump.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$DumpAll$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Read$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Read.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Request.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Response$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Response.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Start$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Start.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Update$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Update.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$1.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$2$$anonfun$applyOrElse$1.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$2.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$3$$anonfun$applyOrElse$2.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$3$$anonfun$applyOrElse$3.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$3$$anonfun$applyOrElse$4.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$3.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$askHandler$1$$anonfun$applyOrElse$5.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$askHandler$1.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor$$anonfun$receive$1.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor$CrashException$.class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor.class
+binary dependencies:
+12 items
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /home/fx/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+5 items
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> /home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> /home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> /home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+40 items
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> progscala2.concurrency.akka.AkkaClient
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> progscala2.concurrency.akka.AkkaClient$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> progscala2.concurrency.akka.AkkaClient$$anonfun$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> progscala2.concurrency.akka.AkkaClient$$anonfun$exit$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Crash
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Crash$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Create
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Create$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Delete
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Delete$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Dump
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Dump$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$DumpAll$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Read
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Read$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Request
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Response
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Response$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Start
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Start$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Update
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2.concurrency.akka.Messages$Update$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$2$$anonfun$applyOrElse$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$3
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$3$$anonfun$applyOrElse$2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$3$$anonfun$applyOrElse$3
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$3$$anonfun$applyOrElse$4
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$askHandler$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2.concurrency.akka.ServerActor$$anonfun$askHandler$1$$anonfun$applyOrElse$5
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> progscala2.concurrency.akka.WorkerActor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> progscala2.concurrency.akka.WorkerActor$
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> progscala2.concurrency.akka.WorkerActor$$anonfun$receive$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> progscala2.concurrency.akka.WorkerActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> progscala2.concurrency.akka.WorkerActor$CrashException$
+used names:
+445 items
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> !
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> !=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> &&
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> +
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> +:
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> <init>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> <refinement>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> <repeated>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> ==
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> A
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> A1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> AbstractPartialFunction
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> ActorRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> ActorSystem
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> AkkaClient
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Any
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> AnyRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Array
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> B1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Boolean
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> BufferedReader
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> CharSequence
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Coll
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Config
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Console
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Crash
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Create
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Delete
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Dump
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> DumpAll
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Function1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Int
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> List
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Long
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> MatchError
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Messages
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> NFE
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Nil
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> None
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Nothing
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> NumberFormatException
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Object
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Option
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> PartialFunction
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Predef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Props
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Read
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Regex
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> ScalaActorRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Seq
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> SeqLike
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> ServerActor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Settings
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Some
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Start
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> String
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> StringContext
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> StringOps
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> T
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> T0
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Tuple2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> U
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Unit
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> Update
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> WrappedArray
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> _1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> actor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> actorRef2Scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> akka
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> apply
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> args
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> asInstanceOf
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> augmentString
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> badCrashRE
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> blankRE
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> c
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> charNumberRE
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> charNumberStringRE
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> concurrency
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> config
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> crashRE
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> dumpRE
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> exit
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> expectedString
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> finished
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> foreach
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> get
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> getInt
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> handleLine
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> head
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> help
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> immutable
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> in
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> invalidCommand
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> isEmpty
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> java
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> lang
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> lengthCompare
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> make
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> message
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> missingActorNumber
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> n
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> numberOfWorkers
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> package
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> print
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> println
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> processArgs
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> processInput
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> progscala2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> prompt
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> qual$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> qual$2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> qual$3
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> qual$4
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> qual$5
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> qual$6
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> qual$7
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> r
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> readLine
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> s
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> server
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> settings
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> shutdown
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> status
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> stripMargin
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> sys
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> system
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> system_=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> toInt
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> toLong
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> trim
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> unapply
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> unapplySeq
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> unary_!
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> unchecked
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> unexpectedString
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> while$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> wrapRefArray
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$10
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$11
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$12
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$13
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$14
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$3
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$4
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$5
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$6
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$7
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$8
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> x$9
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> &&
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> <init>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> ==
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> A
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> AbstractFunction1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> AbstractFunction2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Any
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> AnyRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Boolean
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Crash
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Create
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Delete
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Dump
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> DumpAll
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> IndexOutOfBoundsException
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Int
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Iterator
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Long
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Messages
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> None
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Nothing
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Object
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Predef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Product
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Read
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Request
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Response
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> ScalaRunTime
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Serializable
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Some
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Start
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Statics
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> String
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> T
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> T0
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> T1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> T2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Try
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Tuple2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> Update
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> _hashCode
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> _toString
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> akka
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> anyHash
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> asInstanceOf
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> concurrency
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> eq
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> finalizeHash
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> isInstanceOf
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> key
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> longHash
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> mix
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> numberOfWorkers
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> package
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> progscala2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> result
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> runtime
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> toString
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> typedProductIterator
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> util
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> value
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> whichOne
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> ||
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> !
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> %
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> :+
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> <init>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> <repeated>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ==
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ?
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> A
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> A1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> AbstractPartialFunction
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Actor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ActorContext
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ActorLogging
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ActorRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ActorSystem
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Any
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> AnyRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> AskableActorRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> B
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> B1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Boolean
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> CanBuildFrom
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Class
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ClassTag
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Coll
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Crash
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> CrashException
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Decider
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Directive
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Dump
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> DumpAll
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Duration
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> DurationInt
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ExecutionContext
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ExecutionContextExecutor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Failure
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> FiniteDuration
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Function1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Function2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Future
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Implicits
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Inclusive
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> IndexedSeq
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Int
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Long
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> MatchError
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Messages
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> NonFatal
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Nothing
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Object
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> OneForOneStrategy
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Option
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> PartialFunction
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Predef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Props
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> R
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Range
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Receive
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Request
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Response
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Restart
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Resume
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> RichInt
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> S
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ScalaActorRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ServerActor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Start
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> String
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> StringContext
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Success
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> SupervisorStrategy
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> T
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> T0
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> That
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Throwable
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Timeout
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> TraversableOnce
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Try
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> U
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Unit
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> Vector
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> WorkerActor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> _
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> _$7
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> actor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> actorOf
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> actorRef2Scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> akka
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> apply
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> asInstanceOf
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ask
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> askHandler
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> become
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> canBuildFrom
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> concurrency
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> concurrent
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> context
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> control
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> decider
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> duration
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> empty
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> ex
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> exception
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> fold
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> foreach
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> global
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> i
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> immutable
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> index
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> initial
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> intWrapper
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> isEmpty
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> isInstanceOf
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> key
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> makeWorker
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> map
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> materializeClassTag
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> message
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> n
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> numberOfWorkers
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> onComplete
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> orElse
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> package
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> pattern
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> prefix
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> printResult
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> println
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> processRequests
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> progscala2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> result
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> s
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> seconds
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> self
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> size
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> suc
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> supervisorStrategy
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> system
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> timeout
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> to
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> toInt
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> toVector
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> unapply
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> unary_!
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> unchecked
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> util
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> value
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> whichOne
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> workers
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> workers_=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> !
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> +=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> -=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> ->
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> <byname>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> <init>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> <repeated>
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> ==
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> A
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> A1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> AbstractPartialFunction
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Actor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> ActorLogging
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> ActorPath
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> ActorRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Any
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> AnyRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> ArrowAssoc
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> B
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> B1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Boolean
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> CrashException
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Create
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Delete
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> DumpAll
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Failure
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Function1
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> IndexOutOfBoundsException
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Int
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Iterator
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Long
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Map
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Messages
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Nothing
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Object
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Predef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Product
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Read
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Response
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> RuntimeException
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> ScalaActorRef
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> ScalaRunTime
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Serializable
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> String
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> StringContext
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Success
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> T
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> T0
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Try
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Tuple2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Unit
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> Update
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> WorkerActor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> actor
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> actorRef2Scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> akka
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> apply
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> asInstanceOf
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> collection
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> concurrency
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> datastore
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> empty
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> isInstanceOf
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> key
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> mutable
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> package
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> path
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> progscala2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> runtime
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> s
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> scala
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> self
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> sender
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> toString
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> typedProductIterator
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> unchecked
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> util
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> value
+product stamps:
+40 items
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/AkkaClient$$anonfun$1.class -> lastModified(1490395743000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/AkkaClient$$anonfun$exit$1.class -> lastModified(1490395743000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/AkkaClient$.class -> lastModified(1490395743000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/AkkaClient.class -> lastModified(1490395743000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Crash$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Crash.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Create$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Create.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Delete$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Delete.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Dump$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Dump.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$DumpAll$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Read$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Read.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Request.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Response$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Response.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Start$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Start.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Update$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages$Update.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/Messages.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$1.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$2$$anonfun$applyOrElse$1.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$2.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$3$$anonfun$applyOrElse$2.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$3$$anonfun$applyOrElse$3.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$3$$anonfun$applyOrElse$4.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$3.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$askHandler$1$$anonfun$applyOrElse$5.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$$anonfun$askHandler$1.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/ServerActor.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor$$anonfun$receive$1.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor$CrashException$.class -> lastModified(1490395329000)
+/home/fx/work/Programming Scala/ch17/target/scala-2.11/classes/progscala2/concurrency/akka/WorkerActor.class -> lastModified(1490395329000)
+source stamps:
+4 items
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> hash(5f9427138e571444e021ce3be7d7a6c7c8761858)
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> hash(d0d2deea09f21455a03050e5325aeca0c956a176)
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> hash(96bec9a0592ced6a6d396abca2b25f17ec3a50fa)
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> hash(ffe0a8f8559b45ad394b5240c44c3bcf5f83f018)
+binary stamps:
+4 items
+/home/fx/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar -> lastModified(1404129702000)
+/home/fx/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1399042454000)
+/home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1485187082000)
+class names:
+4 items
+/home/fx/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar -> akka.actor.Props$
+/home/fx/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.Config
+/home/fx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPKnJvQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwX1Q/D3QABm5vdGlmeXNxAH4ADDc/SFF0AAR3YWl0c3EAfgAMPMAO6HQADSRhc0luc3RhbmNlT2ZzcQB+AAwu48lBdAAGZXF1YWxzc3EAfgAMSOyC7HQACkFra2FDbGllbnRzcQB+AAzXUE8rdAAMYXNJbnN0YW5jZU9mc3EAfgAMHur4lXQADHN5bmNocm9uaXplZHNxAH4ADEyX3+V0AA0kaXNJbnN0YW5jZU9mc3EAfgAM64LWI3QABG1haW5zcQB+AAzwcolxdAAJbm90aWZ5QWxsc3EAfgAMMsKHzHQADGlzSW5zdGFuY2VPZnNxAH4ADI3VSsR0AAI9PXNxAH4ADLCcM7l0AAVjbG9uZXNxAH4ADHOV68B0AAh0b1N0cmluZ3NxAH4ADFj3emd0AAIhPXNxAH4ADMTsfkp0AAhnZXRDbGFzc3NxAH4ADGH11Cp0AAJuZXNxAH4ADM3HhIl0AAJlcXNxAH4ADMvXbOl0AAIjI3NxAH4ADCZod9V0AAhmaW5hbGl6ZXNxAH4ADKVc5np0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACZwcm9nc2NhbGEyLmNvbmN1cnJlbmN5LmFra2EuQWtrYUNsaWVudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB91cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABZwcm9nc2NhbGEyLmNvbmN1cnJlbmN5c3EAfgCmdAAbcHJvZ3NjYWxhMi5jb25jdXJyZW5jeS5ha2thc3EAfgCmdAAKcHJvZ3NjYWxhMnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWwKCKSR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L2hvbWUvZngvd29yay9Qcm9ncmFtbWluZyBTY2FsYS9jaDE3L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRflCcTjlcUROAhzjvn16bHyHYYWA==
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwL/ycJgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA1c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfsr+unQABm5vdGlmeXNxAH4ADIXw/1l0AAdSZXF1ZXN0c3EAfgAMFdQYbnQAB3VuYXBwbHlzcQB+AAzxzv7vdAAEUmVhZHNxAH4ADKvlsXF0AAdjdXJyaWVkc3EAfgAMXQa0QHQABER1bXBzcQB+AAw2LS0EdAAEd2FpdHNxAH4ADEtLHwd0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADEu/dl90AA0kYXNJbnN0YW5jZU9mc3EAfgAMIsauqHQAD251bWJlck9mV29ya2Vyc3NxAH4ADHQAwE90AAdjb21wb3Nlc3EAfgAMZiiTV3QAEDxpbml0PiRkZWZhdWx0JDFzcQB+AAygBJvudAAMcHJvZHVjdEFyaXR5c3EAfgAMyKv3/nQABmVxdWFsc3NxAH4ADB2tEBV0AAZVcGRhdGVzcQB+AAxOL+mUdAAMYXNJbnN0YW5jZU9mc3EAfgAMpokrznQABnJlc3VsdHNxAH4ADKoAEsh0AAxzeW5jaHJvbml6ZWRzcQB+AAzn7GMBdAANJGlzSW5zdGFuY2VPZnNxAH4ADEhJwAd0AAdhbmRUaGVuc3EAfgAMioAIfXQABnR1cGxlZHNxAH4ADMty1sV0AAhjYW5FcXVhbHNxAH4ADNwYzah0AAVTdGFydHNxAH4ADOtNOst0AA1wcm9kdWN0UHJlZml4c3EAfgAM8cA6n3QACW5vdGlmeUFsbHNxAH4ADCEW87F0AANrZXlzcQB+AAx7hKqsdAAMaXNJbnN0YW5jZU9mc3EAfgAM91yGSnQABkRlbGV0ZXNxAH4ADMxqaVF0AAY8aW5pdD5zcQB+AAwtFtoPdAAITWVzc2FnZXNzcQB+AAziGKjfdAAFYXBwbHlzcQB+AAwz8xt8dAACPT1zcQB+AAzY9Z5pdAAId2hpY2hPbmVzcQB+AAyDaE/ZdAAHRHVtcEFsbHNxAH4ADJkg/CR0AAVjbG9uZXNxAH4ADO2kIOx0AAVDcmFzaHNxAH4ADOsKdLt0AAYkaW5pdCRzcQB+AAzctEdDdAAIUmVzcG9uc2VzcQB+AAzA7o30dAAEY29weXNxAH4ADB3Qyll0AA9hcHBseSRkZWZhdWx0JDFzcQB+AAx6vEEtdAAIdG9TdHJpbmdzcQB+AAw1pnItdAACIT1zcQB+AAxgtKPTdAAIZ2V0Q2xhc3NzcQB+AAw2ytEpdAAOY29weSRkZWZhdWx0JDFzcQB+AAxrlOAfdAAGQ3JlYXRlc3EAfgAMP5gEnHQAAm5lc3EAfgAMC6M393QABXZhbHVlc3EAfgAMYu21MXQAAmVxc3EAfgAMKHjRfnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADKIUmaN0AAIjI3NxAH4ADGfrrCx0AAhmaW5hbGl6ZXNxAH4ADJU61CJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADJC7pd90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACRwcm9nc2NhbGEyLmNvbmN1cnJlbmN5LmFra2EuTWVzc2FnZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AgUwACWluaGVyaXRlZHEAfgCBTAAHcGFyZW50c3EAfgCBeHEAfgCec3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJ1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALdzcQB+AKp0AANBbnlzcQB+AK5zcQB+ALF1cQB+ALQAAAACc3EAfgC2dAAFc2NhbGFxAH4AvXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFnByb2dzY2FsYTIuY29uY3VycmVuY3lzcQB+AMd0ABtwcm9nc2NhbGEyLmNvbmN1cnJlbmN5LmFra2FzcQB+AMd0AApwcm9nc2NhbGEyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbAnvJWXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS9meC93b3JrL1Byb2dyYW1taW5nIFNjYWxhL2NoMTcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNDS3uoJ8hRVoDBQ5TJa7KDJVqF2
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwDxVD+AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHC2d7tXdAAEc2VsZnNxAH4AC0Gl9Wt0AAd0aW1lb3V0c3EAfgALsr8eKXQAB2NvbnRleHR1cQB+AAkAAAAsc3EAfgALVjzrS3QABm5vdGlmeXNxAH4AC6s8HPN0AAdSZWNlaXZlc3EAfgALnyyumHQABHdhaXRzcQB+AAuIvgrzdAANJGFzSW5zdGFuY2VPZnNxAH4AC+dDOrt0AAptYWtlV29ya2Vyc3EAfgALKl7qtnQAB2luaXRpYWxzcQB+AAuYPMEwdAAGZXF1YWxzc3EAfgALcMIisHQADGFzSW5zdGFuY2VPZnNxAH4ACwsfAPp0AAd3b3JrZXJzc3EAfgAL7cZLi3QADHN5bmNocm9uaXplZHNxAH4AC89bCDt0AA0kaXNJbnN0YW5jZU9mc3EAfgAL0a2K/3QAB3JlY2VpdmVzcQB+AAu+W5BAdAAKcHJlUmVzdGFydHNxAH4ACx97HQl0AA1hcm91bmRSZWNlaXZlc3EAfgALNWwbRXQAC3Bvc3RSZXN0YXJ0c3EAfgALwJyUqXQAC1NlcnZlckFjdG9yc3EAfgALPDRlVnQACHBvc3RTdG9wc3EAfgALTycCuHQACW5vdGlmeUFsbHNxAH4ACyX3Hgh0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACwIl1250AAxpc0luc3RhbmNlT2ZzcQB+AAvM+dqqdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC3PYoD90AA5hcm91bmRQb3N0U3RvcHNxAH4AC42E3ch0AAY8aW5pdD5zcQB+AAtUtzTmdAAIcHJlU3RhcnRzcQB+AAuuFQjbdAAJdW5oYW5kbGVkc3EAfgALl37Qa3QAAj09c3EAfgALLG9NYXQABWNsb25lc3EAfgALYLoZfHQABiRpbml0JHNxAH4AC3Mu0mt0AARtYWtlc3EAfgALYB73kHQABnNlbmRlcnNxAH4AC5/PuFF0AA9wcm9jZXNzUmVxdWVzdHNzcQB+AAsg8hg/dAAIdG9TdHJpbmdzcQB+AAsnKHt6dAAKYXNrSGFuZGxlcnNxAH4ACzcXp5F0AAIhPXNxAH4AC+jNdlx0AAhnZXRDbGFzc3NxAH4AC5k80Xx0AAJuZXNxAH4AC+KSwr10ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAvntD15dAACZXFzcQB+AAscy3qUdAADbG9nc3EAfgALbTBBLXQAAiMjc3EAfgALUE/XPnQACGZpbmFsaXplc3EAfgALTzKPxXQACGhhc2hDb2Rlc3EAfgALjGBBtnQADmFyb3VuZFByZVN0YXJ0c3EAfgAL+Zfc2nQAC3ByaW50UmVzdWx0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AdXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJ3Byb2dzY2FsYTIuY29uY3VycmVuY3kuYWtrYS5TZXJ2ZXJBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCNc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHVMAAlpbmhlcml0ZWRxAH4AdUwAB3BhcmVudHNxAH4AdXhxAH4AknNxAH4AjXVxAH4AcAAAAABzcQB+AI11cQB+AHAAAAAAc3EAfgCNdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCRdAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCRc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCqdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aq3NxAH4AnnQABUFjdG9ycQB+AKRzcQB+AJ50AAZPYmplY3RzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqdAAEamF2YXNxAH4AqnQABGxhbmdxAH4AsXNxAH4AnnQAA0FueXNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKp0AAVzY2FsYXEAfgCxc3EAfgBycQB+AH91cQB+AIAAAAAAc3EAfgCCAHQAJ3Byb2dzY2FsYTIuY29uY3VycmVuY3kuYWtrYS5TZXJ2ZXJBY3RvcnVxAH4AhQAAAAB+cQB+AId0AAZNb2R1bGV1cQB+AIsAAAAAc3EAfgCNcQB+AJNzcQB+AI1zcQB+AJVzcQB+AI11cQB+AHAAAAAAc3EAfgCNdXEAfgBwAAAAAHNxAH4AjXVxAH4AnAAAAAJzcQB+AJ5xAH4AtXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AunNxAH4AqnEAfgC8cQB+ALFzcQB+AJ5xAH4AvnNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4Aw3EAfgCxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAWcHJvZ3NjYWxhMi5jb25jdXJyZW5jeXNxAH4A4nQAG3Byb2dzY2FsYTIuY29uY3VycmVuY3kuYWtrYXNxAH4A4nQACnByb2dzY2FsYTJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVsCe8lZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gxNy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUlr7JoFks7WptOWq8orJfF+w6UPo=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwaZAzggAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB3FKq1dAAEc2VsZnNxAH4AC/OXGJ50AAdjb250ZXh0dXEAfgAJAAAAN3NxAH4AC/X6QqN0AAZub3RpZnlzcQB+AAuIF6KgdAAHUmVjZWl2ZXNxAH4AC65QgdR0AA9wcmludFN0YWNrVHJhY2VzcQB+AAv17QDRdAATZ2V0TG9jYWxpemVkTWVzc2FnZXNxAH4AC5DUwk90AAR3YWl0c3EAfgALtveyBnQADSRhc0luc3RhbmNlT2ZzcQB+AAtPUOuUdAAOQ3Jhc2hFeGNlcHRpb25zcQB+AAuAjlqPdAAMcHJvZHVjdEFyaXR5c3EAfgALKtvOpXQABmVxdWFsc3NxAH4ACyCZXWN0ABBmaWxsSW5TdGFja1RyYWNlc3EAfgAL5zb2KXQACWluaXRDYXVzZXNxAH4ACwZaVTZ0AAxhc0luc3RhbmNlT2ZzcQB+AAvVgN41dAAMc3luY2hyb25pemVkc3EAfgALKdLfdHQADSRpc0luc3RhbmNlT2ZzcQB+AAv2aSqEdAAHcmVjZWl2ZXNxAH4AC14JVT50AAhnZXRDYXVzZXNxAH4AC+SGzGN0AApwcmVSZXN0YXJ0c3EAfgALL/uGunQADWFyb3VuZFJlY2VpdmVzcQB+AAuTgGCedAAIY2FuRXF1YWxzcQB+AAvS++v0dAALcG9zdFJlc3RhcnRzcQB+AAs8bTJXdAAIcG9zdFN0b3BzcQB+AAvk/6FKdAANcHJvZHVjdFByZWZpeHNxAH4AC3EVPXt0AAlub3RpZnlBbGxzcQB+AAsMo9A9dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAspOyz5dAAMaXNJbnN0YW5jZU9mc3EAfgAL+xTy63QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAtrwIhWdAANZ2V0U3RhY2tUcmFjZXNxAH4AC50+ybR0AA5hcm91bmRQb3N0U3RvcHNxAH4AC3w1gO10ABRnZXRTdGFja1RyYWNlRWxlbWVudHNxAH4AC3y8JLt0AAY8aW5pdD5zcQB+AAtUsXj3dAAKZ2V0TWVzc2FnZXNxAH4AC/AxwCt0AAhwcmVTdGFydHNxAH4AC0G8ZLx0AA1zZXRTdGFja1RyYWNlc3EAfgALjibZPHQACXVuaGFuZGxlZHNxAH4AC1PQRZ10AA1nZXRTdXBwcmVzc2Vkc3EAfgALkjgldnQAAj09c3EAfgALjkKAL3QAEmdldFN0YWNrVHJhY2VEZXB0aHNxAH4AC5ZFblx0AAVjbG9uZXNxAH4AC6J2vxR0AA1hZGRTdXBwcmVzc2Vkc3EAfgALli7BkHQABiRpbml0JHNxAH4AC2SI39V0AAZzZW5kZXJzcQB+AAsH7drddAAIdG9TdHJpbmdzcQB+AAteRxq3dAACIT1zcQB+AAuB/TgLdAALV29ya2VyQWN0b3JzcQB+AAuDZL/QdAAIZ2V0Q2xhc3NzcQB+AAsr80JsdAACbmVzcQB+AAvFNyFIdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALkiivOnQAAmVxc3EAfgAL8NIE1HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC+kPGZ10AANsb2dzcQB+AAsou5XBdAACIyNzcQB+AAuaXjRZdAAIZmluYWxpemVzcQB+AAudavZKdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAt2WjdHdAAIaGFzaENvZGVzcQB+AAvs+jhVdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAncHJvZ3NjYWxhMi5jb25jdXJyZW5jeS5ha2thLldvcmtlckFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AiUwACWluaGVyaXRlZHEAfgCJTAAHcGFyZW50c3EAfgCJeHEAfgCmc3EAfgChdXEAfgCEAAAAAHNxAH4AoXVxAH4AhAAAAABzcQB+AKF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKV0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AL50AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC/c3EAfgCydAAFQWN0b3JxAH4AuHNxAH4AsnQABk9iamVjdHNxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL50AARqYXZhc3EAfgC+dAAEbGFuZ3EAfgDFc3EAfgCydAADQW55c3EAfgC2c3EAfgC5dXEAfgC8AAAAAnNxAH4AvnQABXNjYWxhcQB+AMVzcQB+AIZxAH4Ak3VxAH4AlAAAAABzcQB+AJYAdAAncHJvZ3NjYWxhMi5jb25jdXJyZW5jeS5ha2thLldvcmtlckFjdG9ydXEAfgCZAAAAAH5xAH4Am3QABk1vZHVsZXVxAH4AnwAAAABzcQB+AKFxAH4Ap3NxAH4AoXNxAH4AqXNxAH4AoXVxAH4AhAAAAABzcQB+AKF1cQB+AIQAAAAAc3EAfgChdXEAfgCwAAAAAnNxAH4AsnEAfgDJc3EAfgC2c3EAfgC5dXEAfgC8AAAAA3NxAH4AvnEAfgDOc3EAfgC+cQB+ANBxAH4AxXNxAH4AsnEAfgDSc3EAfgC2c3EAfgC5dXEAfgC8AAAAAnNxAH4AvnEAfgDXcQB+AMV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABZwcm9nc2NhbGEyLmNvbmN1cnJlbmN5c3EAfgD2dAAbcHJvZ3NjYWxhMi5jb25jdXJyZW5jeS5ha2thc3EAfgD2dAAKcHJvZ3NjYWxhMnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWwJ7yVl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA+L2hvbWUvZngvd29yay9Qcm9ncmFtbWluZyBTY2FsYS9jaDE3L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT/4Kj4VZtFrTlLUkDETDvPX4PwGA==
+external apis:
+0 items
+source infos:
+4 items
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/AkkaClient.scala -> 
+AAAAAAAAAAA=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/Message.scala -> 
+AAAAAAAAAAA=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/ServerActor.scala -> 
+AAAAAAAAAAA=
+/home/fx/work/Programming Scala/ch17/src/main/scala/progscala2/concurrency/akka/WorkerActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWwJ7yVl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gxNy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWwKACg11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gxNy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWwKCKSR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL2Z4L3dvcmsvUHJvZ3JhbW1pbmcgU2NhbGEvY2gxNy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
