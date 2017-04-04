@@ -1,0 +1,8 @@
+<sammich>
+  <bread>wheat</bread>
+  <meat>salami</meat>
+  <condiments>
+    <condiment expired="true">mayo</condiment>
+    <condiment expired="false">mustard</condiment>
+  </condiments>
+</sammich>
