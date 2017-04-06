@@ -1,0 +1,7 @@
+#!/bin/sh
+# src/main/scala/progscala2/toolslibs/secho
+exec scala "$0" "$@"
+!#
+print("You entered: ")
+args.toList foreach { s => printf("%s ", s) }
+println
