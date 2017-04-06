@@ -1,0 +1,36 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Java source to /home/fx/work/Programming Scala/ch22/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@1fbea0f directly...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.270333925 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.478717373 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.751122155 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	assert, usingMapGetWithOptionName, notify, lowPriorityConversionCheckedConstraint, cancel, execute$default$2, expectResult, intercept, fail, SMapTest, execute$default$4, execute, wait, testDataFor, createCatchReporter, styleName, $bang$eq$eq, org$scalatest$junit$JUnitSuiteLike$$theTracker_$eq, execute$default$3, $eq$eq$eq, map, equals, convertEquivalenceToAToBConversionConstraint, defaultEquality, convertEquivalenceToAToBConstraint, tags, run, convertToLegacyEqualizer, convertToEqualizer, usingMapGetWithOptionExistential, trap, testDataFor$default$2, assertResult, convertEquivalenceToBToAConversionConstraint, execute$default$7, typeCheckedConstraint, notifyAll, withFixture, runTest, withClue, assertionsHelper, SMapTest$Name, execute$default$6, lastName, firstName, <init>, runNestedSuites, newAssertionFailedException, org$scalatest$junit$JUnitSuiteLike$$theTracker, expect, nestedSuites, assume, lowPriorityTypeCheckedConstraint, org$scalatest$Assertions$_setter_$assertionsHelper_$eq, execute$default$5, unconstrainedEquality, newTestCanceledException, toString, testNames, org$scalatest$Suite$_setter_$styleName_$eq, execute$default$1, getClass, runTests, pendingUntilFixed, expectedTestCount, rerunner, convertEquivalenceToBToAConstraint, convertToLegacyCheckingEqualizer, pending, org$scalatest$junit$JUnitSuiteLike$_setter_$styleName_$eq, convertToCheckingEqualizer, NoArgTest, setup, conversionCheckedConstraint, hashCode, suiteId, suiteName.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Name hashing optimization doesn't apply to non-Scala dependency: /home/fx/work/Programming Scala/ch22/src/test/java/progscala2/javainterop/SMapTest.java[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
