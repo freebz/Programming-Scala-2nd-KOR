@@ -1,0 +1,5 @@
+run
+run-main progscala2.appdesign.parthenon.PayrollParthenon
+exit
+run-main progscala2.appdesign.parthenon.PayrollParthenon
+exit

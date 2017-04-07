@@ -1,0 +1,38 @@
+// src/main/scala/progscala2/appdesign/parthenon/PayrollUseCases.scala
+package progscala2.appdesign.parthenon
+import progscala2.dsls.payroll.parsercomb.dsl.PayrollParser
+import progscala2.dsls.payroll.common._
+
+object PayrollParthenon {
+
+  val dsl = """biweekly {
+      federal tax        %f percent,
+      state tax          %f percent,
+      insurance premiums %f dollars,
+      retirement savings %f percent
+    }"""
+
+  private def readData(inputFileName: String): Seq[(String, Money, String)] =
+    for {
+      line <- scala.io.Source.fromFile(inputFileName).getLines.toVector
+      if line.matches("\\s*#.*") == false // skip comments // 주석을 건너뛴다.
+    } yield toRule(line)
+
+  private def toRule(line: String): (String, Money, String) = {
+    val Array(name, salary, fedTax, stateTax, insurance, retirement) =
+      line.split("""\s*,\s*""")
+    val ruleString = dsl.format(
+      fedTax.toDouble, stateTax.toDouble,
+      insurance.toDouble, retirement.toDouble)
+    (name, Money(salary.toDouble), ruleString)
+  }
+
+  private val parser = new PayrollParser
+
+  private def toDeduction(rule: String) =
+    parser.parseAll(parser.biweekly, rule).get
+
+  private type EmployeeData = (String, Money, Deductions)
+
+  private def processRules(inputFileName: String): Seq[EmployeeData] = {
+    val data = readData(
