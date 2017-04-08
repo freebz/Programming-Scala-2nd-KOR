@@ -3,3 +3,8 @@ run-main progscala2.appdesign.parthenon.PayrollParthenon
 exit
 run-main progscala2.appdesign.parthenon.PayrollParthenon
 exit
+run
+run-main progscala2.appdesign.parthenon.PayrollParthenon
+run
+run-main progscala2.appdesign.parthenon.PayrollParthenon
+exit

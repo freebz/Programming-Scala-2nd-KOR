@@ -5,7 +5,7 @@ import progscala2.dsls.payroll.common._
 
 object PayrollParthenon {
 
-  val dsl = """biweelky {
+  val dsl = """biweekly {
       federal tax         %f  percent,
       state tax           %f  percent,
       insurance premiums  %f  dollars,

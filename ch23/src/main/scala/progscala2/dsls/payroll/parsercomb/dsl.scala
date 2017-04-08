@@ -9,10 +9,10 @@ object Payroll {
 
   def main(args: Array[String]) = {
     val input = """biweekly {
-      federal tax        20.0  percent,
-      state tax          3.0   percent,
-      insurance premiums 250.0 dollars,
-      retirement savings 15.0  percent
+      federal tax         20.0  percent,
+      state tax           3.0   percent,
+      insurance premiums  250.0 dollars,
+      retirement savings  15.0  percent
     }"""
     val parser = new PayrollParser
     val biweeklyDeductions = parser.parseAll(parser.biweekly, input).get
