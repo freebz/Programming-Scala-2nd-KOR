@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mInvariantSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32minvariant.apply[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not fail if the invariant holds[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the value returned by the expressions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if the invariant is broken[0m[0m
